@@ -1,1 +1,1 @@
-# GlobalinkInternship
+# Globalink Internship
