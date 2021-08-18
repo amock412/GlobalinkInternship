@@ -1,0 +1,808 @@
+,review_for,review_id,username,user_url,published,date_retrieved,num_stars,num_reviews,review_text
+0,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNLcHBuWjJRRRAB,Francis Ménard (Frnakly_Speaking),https://www.google.com/maps/contrib/118004276779043092696/reviews?hl=en-CA,2 months ago,2021-06-24 17:50:19.048280,4.0,25,Large amd enough benches for everyone! Might be pleasant to add some tables thought.
+1,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUR5MXAzSnp3RRAB,Jesse Prupas,https://www.google.com/maps/contrib/112773720787411584917/reviews?hl=en-CA,3 months ago,2021-06-24 17:50:19.050053,5.0,78,Loved the skating rink the made here this COVID winter! This square is gentrifying quickly.
+2,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNxemNUODhnRRAB,Carlos J alvarez G,https://www.google.com/maps/contrib/103688690956972686987/reviews?hl=en-CA,a week ago,2021-06-24 17:50:19.051465,5.0,134,good park to walk and share with the family
+3,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNxbGZEczN3RRAB,Lupa Duende,https://www.google.com/maps/contrib/114521513662502003983/reviews?hl=en-CA,a week ago,2021-06-24 17:50:19.053612,5.0,250,Great place for an ice cream!
+4,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNxanJiQzhnRRAB,Mauro Peña,https://www.google.com/maps/contrib/105614546613626861622/reviews?hl=en-CA,2 weeks ago,2021-06-24 17:50:19.056895,5.0,27,Cute neighborhood park.
+5,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURDOXZlenl3RRAB,Cyrille Loreau,https://www.google.com/maps/contrib/109148927483196332315/reviews?hl=en-CA,8 months ago,2021-06-24 17:50:19.059112,5.0,18,"Ok so Montreal has a ton of parks and they're all pretty nice, BUT this park is not only gorgeous (massive fountain), but it's dab smack in one of the coolest neighborhoods in the city (St.Henri) and as such surrounded by AMAZING eateries. So you can grab something to go and do some serious chillaxin' in the park."
+6,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUM4bHIzX1R3EAE,Pascal Lecurieux,https://www.google.com/maps/contrib/107376802326900926717/reviews?hl=en-CA,11 months ago,2021-06-24 17:50:19.060914,4.0,115,"Great little square, perfect for small meetings with friends. Had a nice time with people doing unofficial open mic sessions over there. Too bad there are no bathrooms close to it since the pool closed due to the pandemic."
+7,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUQ4el9mTlFREAE,Alexander Gnatenko,https://www.google.com/maps/contrib/107910400494975897754/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:19.063392,5.0,36,Great place to visit in quartier St Henry. Authentic touch of  French Canadian culture. Great neighborhood and places to eat
+8,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNxa2JfMG9nRRAB,Ashik Mahbub,https://www.google.com/maps/contrib/116355797755370449769/reviews?hl=en-CA,2 weeks ago,2021-06-24 17:50:19.073559,5.0,153,of course I like it it's my park :)
+9,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNDdWVtSGlRRRAB,Yulia Toncheva,https://www.google.com/maps/contrib/107388830950889400909/reviews?hl=en-CA,9 months ago,2021-06-24 17:50:19.076395,5.0,72,"Very nice and clean pool! Also, nice little park for gathering with friends."
+10,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURLOWREcDBRRRAB,colette connors,https://www.google.com/maps/contrib/109603753664865816878/reviews?hl=en-CA,a month ago,2021-06-24 17:50:19.077944,4.0,11,Beautiful space.
+11,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNLN1lMQk1nEAE,CRAIG McDowell,https://www.google.com/maps/contrib/105816512988961241533/reviews?hl=en-CA,2 months ago,2021-06-24 17:50:19.079347,5.0,8,Beautiful place to be.
+12,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUM4eUpyRTdnRRAB,Alain Decker,https://www.google.com/maps/contrib/106543855534881130570/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.081230,5.0,40,"A very nice little park , with a beautiful fountain, and views over old buildings , close to restaurants and ideal to bring a picknic"
+13,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNxMjRUdktnEAE,loucie camara,https://www.google.com/maps/contrib/101176281058804634546/reviews?hl=en-CA,4 days ago,2021-06-24 17:50:19.084383,5.0,4,Its beautiful
+14,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNxMC1pWW5BRRAB,Christian Beaudoin,https://www.google.com/maps/contrib/107227477396037850861/reviews?hl=en-CA,6 days ago,2021-06-24 17:50:19.086384,4.0,33,Great park
+15,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURjeE1XNEZnEAE,John Dodge,https://www.google.com/maps/contrib/101799057801679641256/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.097494,4.0,70,"People are good about keeping their distance. The park is clean, just some spots in the grass as far as negatives go."
+16,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNLM05mZzZRRRAB,Chris,https://www.google.com/maps/contrib/107603101726972182920/reviews?hl=en-CA,2 months ago,2021-06-24 17:50:19.099370,5.0,150,Beautiful park.
+17,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNDbnRLeU5REAE,MONIQUE ROY,https://www.google.com/maps/contrib/105885714073042609813/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:19.100955,5.0,127,Peaceful yet always full of neighborhoody activity.
+18,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNZeHBuZGNREAE,Andrea,https://www.google.com/maps/contrib/106106948313980256064/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.102376,5.0,47,Amazing park. Great fountain in the middle. In the winter there is a great little rink. In the summer everyone has picnics and plays various sports. There are often events as well. The big trees give a grear majestic effect. This park makes me happy. I love seeing everyone else happy in this park.
+19,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURraF92elB3EAE,Rock Star Today,https://www.google.com/maps/contrib/117557688852228480515/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.104289,5.0,255,"Great space to enjoy the outdoors in the middle of St-Henri.  Tons of great foodie spots within walking distance.  Eat great, then take a nice stroll to walk off those calories."
+20,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUM4cXZTUnJBRRAB,Dean Houde,https://www.google.com/maps/contrib/114077782538829655555/reviews?hl=en-CA,11 months ago,2021-06-24 17:50:19.106254,5.0,6,"I love the mist they installed, very refreshing. Only thing i hate is that the garbage cans are always full and overflowing..."
+21,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNDdDdfalZREAE,Carl Charbel,https://www.google.com/maps/contrib/112525203367580361066/reviews?hl=en-CA,9 months ago,2021-06-24 17:50:19.108108,4.0,8,Lovely small-medium sized parc in St Henri
+22,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURjbW9fcFBnEAE,Bobby Richard,https://www.google.com/maps/contrib/118224155593287564427/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.110682,3.0,31,Nice big park... lots of shade... but a lot of garbage everywhere...
+23,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNndG9xQ0RREAE,Maxence Renaud,https://www.google.com/maps/contrib/105923967618849937798/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.112810,4.0,91,One of the most beautiful park in Montreal. Yours to discover!
+24,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURnNXZLa1pnEAE,The Dude,https://www.google.com/maps/contrib/114010119394927927714/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.123791,5.0,307,Great local park to come spend a nice sunny day outside with the family and pets. Also a great spot to grab a bite to eat from many of the local restaurants and enjoy the great outdoors. Lots of benches for just sitting or some have tables to help in kinda of fun you want to have. Many pathways winding in and out of the many trees here so a great place to get in a good walk.
+25,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUM0eGY2MTRRRRAB,Maria Cristina Grossi,https://www.google.com/maps/contrib/103023106711263523868/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.126484,5.0,284,A lovely square. Beautiful  fountain and majestic  trees. Truly enjoyed resting there
+26,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUMwaFB6TFNBEAE,Brian Knoepfel,https://www.google.com/maps/contrib/108236597836709345686/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.127985,5.0,100,"They have picnic tables and tons of mature trees.  There are some good places to grab food in the area (tejanos, adamos, etc...) and this is a perfect spot to eat it."
+27,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURrN2FHXzd3RRAB,Kevin Collie,https://www.google.com/maps/contrib/114756947688435413410/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.129743,4.0,250,Nice gem in a nice part of the neighborhood. Perfect for picnics or just a casual relaxing sesh
+28,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNVeUl6LVJREAE,Patrick Bitoumbou,https://www.google.com/maps/contrib/111774231905294762996/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.131256,4.0,30,Going through this park in the morning when the light is passing through the leaves... It's a blessing!
+29,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURVb1lIdHRnRRAB,sonny dinh,https://www.google.com/maps/contrib/106831733180750365360/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.133111,4.0,208,Nice little park with lots of benches and tables to sit or have a picnic.
+30,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURZb3B5VEpBEAE,Christopher Labre,https://www.google.com/maps/contrib/100247783858327252994/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.135852,5.0,233,"Nice little Park in the heart of st. Henry, beautiful fountain in the center makes for a nice place to read a book and catch some sun. Have a good night everybody don't forget to pay it forward peace"
+31,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNNcjlPT01REAE,Slyvia Novac,https://www.google.com/maps/contrib/115993648861489583153/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.147430,5.0,221,Just visit this fountain with your lover and toss your coin and make a wish here. Then leave a comment here when your wish comes true.
+32,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURRdnJLaE53EAE,Ricardo Beltran,https://www.google.com/maps/contrib/100898780014484974106/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.149330,5.0,37,"Clean space, with benches and portable washrooms... Very nice for a family gathering..."
+33,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNnaTdQMzBnRRAB,Melanie Audet,https://www.google.com/maps/contrib/110584006259197965262/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.150991,4.0,13,"It's a nice little park to have a nice sit-down. Especially good if you live in that neighborhood, although I wouldn't recommend this as a visit if you're a tourist."
+34,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURRdEt1MVNnEAE,Shauna Bonaduce,https://www.google.com/maps/contrib/103760759587790740277/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.152662,5.0,44,"Humongous, pretty, lovely, full of activities during summer. Feels safe at night, beautiful fountain in its center."
+35,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURVZzRPbWV3EAE,Saya Gofferaiw,https://www.google.com/maps/contrib/108658976317325842397/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.155108,4.0,45,Bless. Minus the statue lol
+36,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURZZ1pMc2R3EAE,Ingrid Sandra Wilkinson,https://www.google.com/maps/contrib/116275915103930211782/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.157171,5.0,39,Great place for families to picnic and nice fountain
+37,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURBbnBldEhREAE,John Tessier,https://www.google.com/maps/contrib/117813531570368667871/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.158637,4.0,101,Great park with lots of green space and a pool.  Right next to two ice cream parlors
+38,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUM0M3ZTR2VREAE,Phillip Koumasitis,https://www.google.com/maps/contrib/104063774867506496190/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.160058,5.0,43,Nice quiet place to read a book
+39,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNROXFLUVR3EAE,serge bako,https://www.google.com/maps/contrib/116659753199208785481/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.161484,5.0,25,Nice place to relax when the weather is nice in the summer by the fountain.
+40,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURDNnE2NXlnRRAB,Sean Anderson,https://www.google.com/maps/contrib/116341661835913993966/reviews?hl=en-CA,9 months ago,2021-06-24 17:50:19.164693,4.0,35,Nice park
+41,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUQwb0lLbXB3RRAB,Ken Lee,https://www.google.com/maps/contrib/102922812233485916054/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.176430,5.0,459,"Nice park, regentrified area"
+42,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURDaXJ5anp3RRAB,Carlos Aguas,https://www.google.com/maps/contrib/107845460029164477971/reviews?hl=en-CA,9 months ago,2021-06-24 17:50:19.178864,4.0,15,Ok
+43,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNBZ19fTHVRRRAB,Robert Fraser,https://www.google.com/maps/contrib/112286191633337817426/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.180415,5.0,37,Very nice place to bring the kids and have a picnic or have festivities going on
+44,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURnODlqQlpnEAE,Francois Trudeau,https://www.google.com/maps/contrib/117749100579281615545/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.182428,5.0,50,This parc is so great with its pld trees and a nice fountain in the middle. Good for relaxing or a pic nic.
+45,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURReGYyaHJ3RRAB,Dan P,https://www.google.com/maps/contrib/114672140386446804373/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.184503,5.0,28,Best park in Saint-Henri. Lots of room for picnics.
+46,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURReUtmdVlBEAE,Meggie Guinan,https://www.google.com/maps/contrib/108389907535480062644/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.186353,4.0,63,My old hoods park.  Not a million things to do but a great place to bring your own bbq and have a gathering.
+47,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNndmVlQjNnRRAB,Adam Jones,https://www.google.com/maps/contrib/113417669608903169183/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.197052,4.0,111,"Beautiful park, nice fountain, tennis courts and free outdoor swimming pool in the summer time."
+48,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURRaFpXSHpBRRAB,Vg G,https://www.google.com/maps/contrib/114092399265107358982/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.203178,4.0,755,Beautiful park with its fountain in the middle.
+49,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURReXZyTGx3RRAB,Benjamin B,https://www.google.com/maps/contrib/104663872419577930582/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.208966,4.0,134,A small park with charm and a few activities like pool and tennis
+50,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNBOTZuanFnRRAB,James Lucas,https://www.google.com/maps/contrib/113778822493545563663/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.210865,3.0,76,Nice wooded park with a fountain and free public pool.
+51,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNRMVptQjl3RRAB,Steve La Barbera,https://www.google.com/maps/contrib/115984587807217976361/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.213260,5.0,137,"Pool, tennis and bocce court... In summer this park is amazing"
+52,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNRemRlWE1BEAE,Raisa Roo,https://www.google.com/maps/contrib/104312463291945267098/reviews?hl=en-CA,5 years ago,2021-06-24 17:50:19.224272,5.0,52,Love seeing the flowers evolve on the side by the canal.
+53,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURBMnFLOEhnEAE,Andrew Albert,https://www.google.com/maps/contrib/109238838363364198099/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.226845,5.0,6,"Awesome park to relax, picnic, or take a swim."
+54,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURZbl9MZlpREAE,The Long Wool Coat,https://www.google.com/maps/contrib/108067011353423415902/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.229912,5.0,14,I saw an albino squirrel. 10 points if you can find it.
+55,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUM4blpLcUtBEAE,Daddy Red,https://www.google.com/maps/contrib/113049071849209753443/reviews?hl=en-CA,11 months ago,2021-06-24 17:50:19.231519,4.0,15,Nice park
+56,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUN3enVPRUxREAE,Shoshana Wilder,https://www.google.com/maps/contrib/101506160259842041993/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.233169,5.0,86,Most beautiful Park. Love it.
+57,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURRci0zeFF3EAE,Chris McLeod,https://www.google.com/maps/contrib/105506758683302698073/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.235995,5.0,60,One of my favorite neighborhood parks
+58,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNzNzRfWWhBRRAB,Ariana Kennedy,https://www.google.com/maps/contrib/101958265003580034277/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.239288,5.0,105,Nice park!!!
+59,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNRbExmQmVREAE,Wellington Leite,https://www.google.com/maps/contrib/115820781367403667117/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.248527,5.0,156,"Great park, very family atmosphere!!!!"
+60,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURzaW9XMnZ3RRAB,lawal bello osagie,https://www.google.com/maps/contrib/103457180152152118657/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.250512,5.0,196,Awesome
+61,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNVenNPSHVnRRAB,Daniel Morley,https://www.google.com/maps/contrib/112240266143098601938/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.251975,5.0,134,Remarkable
+62,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUM0eDc3cGhRRRAB,Daniel Lagace,https://www.google.com/maps/contrib/100603620458325114055/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.253433,5.0,127,Clean nice atmosphere
+63,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURrZzlmSVFREAE,Josef Michailov,https://www.google.com/maps/contrib/110253611844764748116/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.256429,5.0,461,"Nice park, beautiful landscaping"
+64,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURZNjYtcDlBRRAB,Jean-René Viau,https://www.google.com/maps/contrib/112597760552272715377/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.259148,4.0,43,Nice casual park
+65,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNVOUtpTTR3RRAB,Claudia Ruel,https://www.google.com/maps/contrib/115207130487890902973/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.260598,2.0,13,Construction of the pool makes it very noisy
+66,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUQwcW9YZUx3EAE,Terrence Spicer,https://www.google.com/maps/contrib/113069129195420688858/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.263880,5.0,13,Tranquil Park
+67,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNDdHJHWmRBEAE,Dominik Roy,https://www.google.com/maps/contrib/104432787449668998211/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:19.275622,5.0,7,Majestic
+68,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURRck4yamtnRRAB,Ghost Ghost,https://www.google.com/maps/contrib/101550154874183898662/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.277734,3.0,58,Ok dogs like it
+69,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNVM0syQ1d3EAE,Marie-Ange Bankamwabo,https://www.google.com/maps/contrib/110093666835075526700/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.279975,3.0,25,Beautiful little park
+70,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNncTVDMHl3RRAB,Aline Croteau,https://www.google.com/maps/contrib/106651856346392009978/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.281432,5.0,100,Very nice place to relax
+71,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUMwbzVLRVh3EAE,Conrad Gluch,https://www.google.com/maps/contrib/106696719442496348292/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.283120,5.0,22,What a lovely spot!!!
+72,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURRbTk3M0lREAE,Monica Ruiz,https://www.google.com/maps/contrib/115643442371089044109/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.285579,5.0,35,It was a fun day
+73,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNRcDdxSFFREAE,Ohemaa Sandra,https://www.google.com/maps/contrib/108026687571559734850/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.288341,5.0,6,Very beautiful
+74,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURBM2QzcVRnEAE,Patrick Hébert,https://www.google.com/maps/contrib/115533976454170960623/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.298442,5.0,59,Cozy and quiet.
+75,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNVd2RIOVdnEAE,Kathleen Brown,https://www.google.com/maps/contrib/107123494828741593314/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.300957,5.0,76,Relax for a bit
+76,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNRNmJibzRnRRAB,Eduard P,https://www.google.com/maps/contrib/117175608077979840632/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.303222,4.0,171,Nice place to stroll around
+77,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURnX3RIMzlBRRAB,Wilfred Liu,https://www.google.com/maps/contrib/113675545943123517144/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.305221,5.0,181,"The starting and ending point for the 2018 Montreal Walk for Alzheimer's, Make Memories Matter."
+78,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNBbS1EQ2ZnEAE,Guillaume Barbeau,https://www.google.com/maps/contrib/108075016612266091986/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.306865,3.0,58,Cute lovely park.
+79,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNBaDhLMFh3EAE,David Drullinsky,https://www.google.com/maps/contrib/101121139649677119002/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.308274,5.0,124,Nice chill park
+80,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUN3c1p6YVdnEAE,Evan Baker,https://www.google.com/maps/contrib/107988146595295346169/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.310737,5.0,9,Great family park
+81,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUN3b2JhNzB3RRAB,Zoir Radjabov,https://www.google.com/maps/contrib/100249706059581510387/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.313526,5.0,637,Really beatiful park.
+82,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNRazl1UU5BEAE,Marcello Cellucci,https://www.google.com/maps/contrib/117921564164478312573/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.323891,4.0,147,Great place
+83,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUN3a1pmbFRnEAE,Sylvain Mitchell,https://www.google.com/maps/contrib/105340734657280129899/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.325744,5.0,91,Heaven
+84,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNnMWEtbzFBRRAB,Milen K,https://www.google.com/maps/contrib/114082175415606729255/reviews?hl=en-CA,5 years ago,2021-06-24 17:50:19.327172,4.0,23,"Park, tennis, swimming."
+85,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNxX2VEQ293RRAB,l Laurent Soucy,https://www.google.com/maps/contrib/104240404758127743846/reviews?hl=en-CA,a week ago,2021-06-24 17:50:19.329602,4.0,67,Beau parc ds st -Henri mais fontaine souvent hors fonction
+86,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURLcXNQTzFnRRAB,Elen Z.,https://www.google.com/maps/contrib/112055175656342116388/reviews?hl=en-CA,a month ago,2021-06-24 17:50:19.333298,5.0,45,"(Translated by Google) A very nice and beautiful place where you can come with children for a picnic and just take a walk. Lots of protein.
+
+(Original)
+Очень хорошее и красивое место ,куда можно прийти с детьми на пикник и просто погулять. Много белок."
+87,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURLejdMM0tnEAE,Denis Bergeron,https://www.google.com/maps/contrib/118331434176106651938/reviews?hl=en-CA,a month ago,2021-06-24 17:50:19.347618,5.0,2,"(Translated by Google) I saw there little video on YouTube I like to have this advertisement on my touch screen
+
+(Original)
+J'ai vu là petit vidéo sur YouTube j'aime bien avoir cette publicité sur mon écran tactile"
+88,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNxMWNuemZREAE,Kevin Patenaude,https://www.google.com/maps/contrib/105779018714522811419/reviews?hl=en-CA,a week ago,2021-06-24 17:50:19.351071,5.0,8,"Agreablement calme avec un supcon
+de personne louche!%@$@"
+89,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURJMmQtUEx3EAE,Guy Giasson,https://www.google.com/maps/contrib/109378842733356857240/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.352769,5.0,46,"(Translated by Google) A new pool is being built in the moment.
+
+(Original)
+Une nouvelle piscine est construite dans le moment."
+90,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNxeHQtLUhnEAE,Patrick Savard,https://www.google.com/maps/contrib/107959269560597585039/reviews?hl=en-CA,2 weeks ago,2021-06-24 17:50:19.359419,4.0,60,"(Translated by Google) Very beautiful park for the teeth who like to walk
+
+(Original)
+Très beaux parc pour les dents qui aimece promener"
+91,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURDcXZTVldBEAE,so lit “raggamuffinjojo” the so lit family,https://www.google.com/maps/contrib/113238085529400679385/reviews?hl=en-CA,4 months ago,2021-06-24 17:50:19.364627,3.0,49,"(Translated by Google) I went skating the rink is not very big and could use a little love.
+
+(Original)
+Je suis allé patiner la patinoire n'est pas très grande et aurait besoin d'un peu damour."
+92,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUR5MEl6RVJREAE,julio montano,https://www.google.com/maps/contrib/116482368816167500448/reviews?hl=en-CA,4 months ago,2021-06-24 17:50:19.380432,3.0,541,"(Translated by Google) A beautiful place!
+
+(Original)
+Un beau endroit !"
+93,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNDay1MYnlBRRAB,Danielle Joyal,https://www.google.com/maps/contrib/118431889535028165383/reviews?hl=en-CA,9 months ago,2021-06-24 17:50:19.383153,4.0,28,"(Translated by Google) Beautiful memory of youth ...
+The fountain with the sound of water sitting on the bench facing it very soothing
+See the young families smiling and eating together on the picnic table ...
+
+(Original)
+Beau souvenir de jeunesse...
+La fontaine avec le bruit de l'eau assise sur le banc qui lui fait face très apaisant
+Voir les jeunes familles souriantes et mangeant ensemble sur la table pique nique..."
+94,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNDMk9hcHZ3RRAB,moimeme1e,https://www.google.com/maps/contrib/110095875138877947986/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:19.384607,5.0,59,"(Translated by Google) Great atmosphere. Relax with a freshness zone. Truly a neighborhood park.
+
+(Original)
+Belle ambiance. Relaxe avec une zone fraîcheur. Vraiment un parc de quartier."
+95,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNTb29pcnp3RRAB,Diane Beauregard,https://www.google.com/maps/contrib/112650831400483022938/reviews?hl=en-CA,6 months ago,2021-06-24 17:50:19.386024,5.0,73,"(Translated by Google) An enchanting place with the trees dressed in snow
+
+(Original)
+Un lieux  enchanteur avec les arbres habiller de neige"
+96,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNxbE03b2N3EAE,Dmitry Geselev,https://www.google.com/maps/contrib/106982809650558245452/reviews?hl=en-CA,3 weeks ago,2021-06-24 17:50:19.388220,5.0,43,"(Translated by Google) Nice park!
+
+(Original)
+Хороший парк!"
+97,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURLLXJ6dnJnRRAB,Catherine Corriveau,https://www.google.com/maps/contrib/113484117807688123252/reviews?hl=en-CA,a month ago,2021-06-24 17:50:19.400193,5.0,71,"(Translated by Google) Good meeting point
+
+(Original)
+Bon point de rencontre"
+98,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUQ4dGIyVzZ3RRAB,Mario Bérubé,https://www.google.com/maps/contrib/100525911463391749441/reviews?hl=en-CA,11 months ago,2021-06-24 17:50:19.402390,5.0,57,"(Translated by Google) Easy access tennis court. New swimming pool with very large pavilion.
+
+(Original)
+Tennis facile d'accès. Piscine neuve avec pavillon très grand."
+99,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURVOC0ySnpRRRAB,Yoann Lussier,https://www.google.com/maps/contrib/108366424979984064344/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.410071,5.0,3,"(Translated by Google) At any time of day this park is beautiful to see. Even in the graying period, the park is wearing its fog coat. The fountain installed to the south is pretty and soothing. In good weather, a lot of sportsmen indulge in their favorite sport.
+
+(Original)
+À tout heure de la journée ce parc est beau à voir. Même en période grisonnante, le parc revêt son manteau de brume. La fontaine installée vers le sud est jolie et calmante. Par beau temps, beaucoup de sportif s'adonnent à leur sport favori."
+100,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNDNjZ5NVRnEAE,Sylvie Levac,https://www.google.com/maps/contrib/105621500617532061467/reviews?hl=en-CA,9 months ago,2021-06-24 17:50:19.411764,3.0,11,"(Translated by Google) A very beautiful park to relax restaurant nearby and in summer at the end of the park there is an outdoor public swimming pool.
+
+(Original)
+Un très beau parc pour relaxer restaurant a proximité et en été au bout du parc il y a une piscine publics extérieur."
+101,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUQ4cjRUVmJnEAE,Salim DAHMANE,https://www.google.com/maps/contrib/104933797304875379348/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:19.422438,4.0,48,"(Translated by Google) Ideal for cooling off, very friendly little park.
+
+(Original)
+Idéal pour se rafraîchir, petit parc très conviviale."
+102,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNDdl9qWGRnEAE,Josmyne “Mymyne Natural” Lucate,https://www.google.com/maps/contrib/100786853639882900270/reviews?hl=en-CA,9 months ago,2021-06-24 17:50:19.426486,5.0,68,"(Translated by Google) Very nice park in summer lots of space
+
+(Original)
+Très beau parc en été beaucoup d'espace"
+103,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURjMktHazd3RRAB,Tito Causo,https://www.google.com/maps/contrib/103084643139530438841/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.438740,2.0,15,"(Translated by Google) Bin trash plain fountains close up messy pi
+
+(Original)
+Poubelles bin plainne fontaines fermer pi malpropres"
+104,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUM4OHZmMXdBRRAB,Benoit Girard,https://www.google.com/maps/contrib/114233364500242371048/reviews?hl=en-CA,11 months ago,2021-06-24 17:50:19.448373,4.0,16,"(Translated by Google) Very beautiful trees
+
+(Original)
+Très beaux arbres"
+105,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNDdk9XSFhBEAE,Sylvie Godin,https://www.google.com/maps/contrib/116609198713415827329/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:19.452483,5.0,19,"(Translated by Google) Quiet place good to rest
+
+(Original)
+Endroit calme bien pour se reposer"
+106,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUQ4aDV1TWJBEAE,Loubaba Ahl Maatallah,https://www.google.com/maps/contrib/111538964900375938754/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:19.456249,5.0,36,"(Translated by Google) A magnificent place where you can feel a lot of peace!
+
+(Original)
+Un lieu magnifique où l'on ressent beaucoup de quiétude !"
+107,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUQwdDdERU53EAE,david daoduy,https://www.google.com/maps/contrib/117804309017300720825/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.461465,5.0,203,"(Translated by Google) Very nice place!
+
+(Original)
+Endroit très agréable !"
+108,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUQwcGZLMlZREAE,Evelyne L.,https://www.google.com/maps/contrib/118338615839319591003/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.481140,5.0,102,"(Translated by Google) Beautiful park in St-Henri, nice to walk there and stop in front of the fountain ⛲
+
+(Original)
+Beau parc dans St-Henri, agréable de s'y promener et de s'arrêter devant la fontaine ⛲"
+109,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUM4dnI2NmJREAE,Ginette Hamelin,https://www.google.com/maps/contrib/101442904167652888997/reviews?hl=en-CA,11 months ago,2021-06-24 17:50:19.485891,5.0,6,"(Translated by Google) Very nice space for dinner at my work
+
+(Original)
+Tres belle espace pour le dîner a mon travail"
+110,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURjXy1QMlF3EAE,JR Xeurasy,https://www.google.com/maps/contrib/101475011964115290837/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.488046,5.0,95,"(Translated by Google) Very beautiful park and still under construction for the public swimming pool
+
+(Original)
+Très beau parc et encore en construction pour la piscine public"
+111,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNDbE9LU3RBRRAB,Michel H,https://www.google.com/maps/contrib/116500068503705670733/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:19.499433,5.0,132,"(Translated by Google) One of the most beautiful fountains in Montreal, in honor of one of our own
+
+(Original)
+Une des plus belle fontaine de montreal, en l'honneur de l'un des nôtres"
+112,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNDdlBYTXJ3RRAB,Jean-Yves Gabriel Yoshi,https://www.google.com/maps/contrib/117965493637090914278/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:19.501743,5.0,1,"(Translated by Google) Very beautiful Park is a refreshing place.
+
+(Original)
+Très beau Parc c'est une endroit rafraississante."
+113,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUQ4dGUzUWdRRRAB,Vicente Gutiérrez,https://www.google.com/maps/contrib/103804110507113008702/reviews?hl=en-CA,11 months ago,2021-06-24 17:50:19.509418,4.0,69,"(Translated by Google) A beautiful park at saint henrry.
+
+(Original)
+Une belle parc au saint henrry."
+114,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNDcThmT3pRRRAB,maria castro,https://www.google.com/maps/contrib/105129085521239238342/reviews?hl=en-CA,9 months ago,2021-06-24 17:50:19.510973,5.0,14,"(Translated by Google) My favorite park, close to the house, good atmosphere
+
+(Original)
+Mi parque favorito, cerca de la casa, buen ambiente"
+115,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUM4d3JQTF9RRRAB,Colette Martel,https://www.google.com/maps/contrib/116729042521505404422/reviews?hl=en-CA,11 months ago,2021-06-24 17:50:19.513499,5.0,14,"(Translated by Google) Nice park for a family picnic.
+
+(Original)
+Beau parc pour un picnic en famille."
+116,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNzNk1LclZ3EAE,Mégane Chauvette,https://www.google.com/maps/contrib/107776617448076048317/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.526089,5.0,19,"(Translated by Google) Very nice quiet place for a picnic or to play Pokémon go!
+
+(Original)
+Très belle place calme pour un pique-nique ou pour jouer à Pokémon go!"
+117,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUMwaGJQU1hBEAE,Yan Dubord,https://www.google.com/maps/contrib/112585398578999797818/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.530708,5.0,105,"(Translated by Google) It is beautiful beneath the fountain after all these renovations there. Good job!
+
+(Original)
+C’est ben beau la fontaine après toutes ces rénovations là. Good job!"
+118,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURNLV8yZVhBEAE,Thymagene Jamessadath,https://www.google.com/maps/contrib/111259159381732768206/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.547751,5.0,48,"(Translated by Google) st henri one of the best montreal neighborhood
+
+(Original)
+st henri un des  meilleurs quartier montreal"
+119,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURDbmJTMjRRRRAB,JF Blaquière,https://www.google.com/maps/contrib/101963018032166925154/reviews?hl=en-CA,8 months ago,2021-06-24 17:50:19.549739,5.0,47,"(Translated by Google) To take a walk, it is really a beautiful space.
+
+(Original)
+Pour prendre une marche, c'est vraiment un bel espace."
+120,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURnNE9PTWFnEAE,Daniela LaZumbaGirl,https://www.google.com/maps/contrib/102795504393259190898/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.551716,5.0,29,"(Translated by Google) Beautiful Little Park to Relax Alone, In Love or Even Make Pick-Nicks Family, with Adorable Little Squirrels to Have Fun Our Children 😊👍
+
+(Original)
+Beau Petit Parc pour se Détendre Seul, En Amoureux ou Même Faire des Pick-Nicks en Famille, avec des Adorables Petits Écureuils pour Amuser Nos Enfants 😊👍"
+121,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNDZ3JtTk9nEAE,I am a mother AM,https://www.google.com/maps/contrib/114493076279982969420/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:19.554817,5.0,51,"(Translated by Google) Very nice place
+
+(Original)
+Très belle place"
+122,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUQweXZLZm9BRRAB,Marc Giard,https://www.google.com/maps/contrib/107352316302319331687/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.558168,5.0,6,"(Translated by Google) Under construction but will soon be beautiful
+
+(Original)
+En construction mais sera bientôt magnifique"
+123,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNzNzQtaTNRRRAB,Pierre-Antoine Riverin (The Mighty 3),https://www.google.com/maps/contrib/100177322818750972730/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.562949,5.0,5,"(Translated by Google) Very nice park
+
+(Original)
+Très beau parc"
+124,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURDd3U2YzF3RRAB,lunoove,https://www.google.com/maps/contrib/100191295400782097247/reviews?hl=en-CA,9 months ago,2021-06-24 17:50:19.574656,5.0,33,"(Translated by Google) Quiet and beautiful fountain
+
+(Original)
+Tranquille et belle fontaine"
+125,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURZelpicHNRRRAB,jasmin cot,https://www.google.com/maps/contrib/107401653191660582846/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.577377,5.0,67,"(Translated by Google) beautiful park! nice to spend time there.
+
+(Original)
+beau parc ! agréable d'y passer du temps."
+126,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURRM1BIUGt3RRAB,Sylvain Payant,https://www.google.com/maps/contrib/111180144232479526666/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.579205,5.0,159,"(Translated by Google) very pretty park and very tranquil to make a picnic and relax tranquil
+
+(Original)
+tres jolie parc et tres tranquil pour fair un picnique et relaxcer tranquil"
+127,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUMwcVlDLWNnEAE,junior ultimatakis,https://www.google.com/maps/contrib/104881608220176113549/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.580798,3.0,7,"(Translated by Google) I do not like it too much
+
+(Original)
+Bof j'ai pas trop aimer pas prope"
+128,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUQwdHEyc1lREAE,Linda Dellazizzo (La Baquette),https://www.google.com/maps/contrib/114003162383390013874/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.582949,5.0,61,"(Translated by Google) Beautiful park for children!
+
+(Original)
+Très beau parc pour enfant!"
+129,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURVZ0pmZ3J3RRAB,stephane corbett,https://www.google.com/maps/contrib/112905271269514567133/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.585868,5.0,14,"(Translated by Google) very beautiful park with a beautiful fountain
+
+(Original)
+tres beaux parc avec une belle fontaine"
+130,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUM4cXQ3dXBRRRAB,Mourad Douss,https://www.google.com/maps/contrib/115711291394206522669/reviews?hl=en-CA,11 months ago,2021-06-24 17:50:19.588426,5.0,19,"(Translated by Google) Full of beautiful young girl
+
+(Original)
+Plein de belles jeune fille"
+131,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUN3aHRmRTZRRRAB,Daniel Montpetit,https://www.google.com/maps/contrib/111816577301356152060/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.599608,5.0,384,"(Translated by Google) Very pretty park lined with period buildings. The fountain has been restored and is superb. Nice place to do an urban picnic!
+
+(Original)
+Très joli parc bordé d'édifices d'époque. La fontaine a été restaurée et est superbe. Bel endroit pour faire un picnic urbain!"
+132,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURrejU3aEFnEAE,Clément Bourger (clem8269),https://www.google.com/maps/contrib/109482449999432533265/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.601046,5.0,27,"(Translated by Google) Quiet, nice, and relaxing! Two tennis courts are available!
+
+(Original)
+Calme, agréable, et reposant ! Deux cours de tennis sont disponibles !"
+133,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURDaS0yRGFREAE,N47,https://www.google.com/maps/contrib/102999967473830817428/reviews?hl=en-CA,8 months ago,2021-06-24 17:50:19.602459,5.0,34,"(Translated by Google) To visit without hesitation!
+
+(Original)
+A visiter sans hésiter !"
+134,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUMwb00yVDBRRRAB,Caroline Primeau,https://www.google.com/maps/contrib/113430317977026162074/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.604979,4.0,104,"(Translated by Google) I can not wait to see what will become of the pool in the summer of 2020!
+
+(Original)
+J'ai hâte de voir ce que va devenir la piscine en été 2020 !"
+135,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNJaXNiMjlBRRAB,Valiris Lefebvre (top music top game),https://www.google.com/maps/contrib/111310602252514670051/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.607252,5.0,85,"(Translated by Google) I loved that though. Difficult to find when you don't live nearby
+
+(Original)
+J'ai adoré bien que. Difficile à trouver quand ont habite pas dans le coin"
+136,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURraE9lNlFnEAE,mike junior fenesser,https://www.google.com/maps/contrib/115895053066451335713/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.609538,5.0,1,"(Translated by Google) This super :)
+
+(Original)
+Cetai superbe :)"
+137,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURBX29LV1J3EAE,Gaetan Matte,https://www.google.com/maps/contrib/106107317324753846007/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.610998,4.0,929,"(Translated by Google) Very beautiful park, you can relax, have a touch of 'jasette' ..... beautiful neighborhood in the making ..... to live!
+
+(Original)
+Très beau parc , on peut y relaxer , avoir un brin de ' jasette ' ..... beau cartier en devenir ..... à vivre !"
+138,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNVaWJQMjhBRRAB,Normand Chartier,https://www.google.com/maps/contrib/110933969650887938354/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.613626,3.0,46,"(Translated by Google) It's good
+
+(Original)
+C'est bien"
+139,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURNaTZXd3d3RRAB,norman petrucci,https://www.google.com/maps/contrib/104530799920968651805/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.623305,4.0,84,"(Translated by Google) Beautiful quiet park
+
+(Original)
+Très beau parc tranquille"
+140,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURVcnZfNTZBRRAB,Vowte Kohnsur Vateeve,https://www.google.com/maps/contrib/102712921402914037838/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.628803,5.0,10,"(Translated by Google) Beautiful and well in front of a church
+
+(Original)
+Beau et Bien en face d'un église"
+141,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURBMV9HLUlnEAE,Stephane Laurin,https://www.google.com/maps/contrib/103892721111615256057/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.679232,5.0,12,"(Translated by Google) I lived there 49 years, that of memory.
+
+(Original)
+J'y habitai 49 ans, que de souvenir."
+142,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURnMmVmOWVREAE,B M,https://www.google.com/maps/contrib/117199088378372904556/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.681520,5.0,146,"(Translated by Google) Very peaceful, beautiful fountains perfect for lovers
+
+(Original)
+Très paisibles, belle fontaines parfait pour les amoureux"
+143,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNBaWJ2YkJBEAE,Mathieu Masquelier,https://www.google.com/maps/contrib/116934848431766345348/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.683404,4.0,295,"(Translated by Google) Superb park with beautiful large trees and beautiful stone triplex. A nice atmosphere of relaxed and bohemian neighborhood.
+
+(Original)
+Superbe parc avec beaux grands arbres et très beaux triplex en pierre. Une belle ambiance de quartier relax et bohème."
+144,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURZX3JIWHZBRRAB,Michel Guérin,https://www.google.com/maps/contrib/108985516782591193967/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.685480,5.0,477,"(Translated by Google) Very beautiful places
+
+(Original)
+Très beau lieux"
+145,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURBLU51Wm53RRAB,Yanick Aubry,https://www.google.com/maps/contrib/116151958069392869656/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.688129,4.0,200,"(Translated by Google) Beautiful park there is children's theater in summer. Sometimes.
+
+(Original)
+Beau parc il y a du théâtre pour enfants l'été. À certains moments."
+146,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURRczViRzBnRRAB,Dima L,https://www.google.com/maps/contrib/117840934593830645600/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.698066,5.0,32,"(Translated by Google) Nice quiet park in the urban environment. There is a public outdoor pool, and free!
+
+(Original)
+Beau parc tranquil dans le milieu urbain. Il y a une piscine publique extérieur, et gratuite!"
+147,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNRdnN6T3NBRRAB,Aurelie Vasseur,https://www.google.com/maps/contrib/109462719700476454482/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.699996,5.0,323,"(Translated by Google) Small but very cute. Well maintained.
+
+(Original)
+Petit mais très mignon. Bien entretenu."
+148,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNncXJXN1FREAE,Marc Letourneau,https://www.google.com/maps/contrib/109207443955233202136/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.701418,4.0,312,"(Translated by Google) Very pretty square with its fountain. Place discovered by chance during a bike ride.
+
+(Original)
+Très jolie square avec sa fontaine. Endroit découvert par hasard lors d'une randonnée à vélo."
+149,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURVOGNpOHFRRRAB,Serge Mimeault,https://www.google.com/maps/contrib/107324298923713883841/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.703218,4.0,44,"(Translated by Google) Beautiful park, quiet and clean
+
+(Original)
+Superbe parc, calme et propre"
+150,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURnb1l5RUNREAE,Chantal Lantin,https://www.google.com/maps/contrib/108644770198092059108/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.705370,5.0,123,"(Translated by Google) Beautiful park where you can relax.
+
+(Original)
+Très beau parc où l'on peut relaxer."
+151,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUN3bTlYcGtBRRAB,Emmanuelle Tellier,https://www.google.com/maps/contrib/105670018040321472996/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.707209,5.0,40,"(Translated by Google) Small, very quiet neighborhood park
+
+(Original)
+Petit parc de quartier très tranquille"
+152,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUN3aEtHaGxBRRAB,Mathieu Parent,https://www.google.com/maps/contrib/106750642805635325613/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.708723,5.0,26,"(Translated by Google) Very beautiful park. Perfect for a stroll with family or friends. Posede a large picine 2 ground of tenis a ground of game of bowls
+
+(Original)
+Tres beau parc. Parfait pour une petite promenade en famille ou entre amis. Posede une grande picine 2 terrain de tenis ut un terrain de pétanque"
+153,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURBc29ERXVBRRAB,Sebastien Loulou,https://www.google.com/maps/contrib/110797169330951708229/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.710468,5.0,40,"(Translated by Google) Another nice piece of greenery in Montreal.
+
+(Original)
+Un autre joli morceau de verdure à Montréal."
+154,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURBalp1c0tnEAE,Johanne Bergeron,https://www.google.com/maps/contrib/108481456899246219364/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.712559,4.0,69,"(Translated by Google) Very beautiful park with pretty fountain
+
+(Original)
+Très beau parc avec jolie fontaine"
+155,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUQwcGJINGFnEAE,francis melancon,https://www.google.com/maps/contrib/110829610239641305858/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.722483,5.0,56,"(Translated by Google) I would go away this winters
+
+(Original)
+J irais partiner la cette hivers"
+156,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNRb05fT1lREAE,Alexis Galand,https://www.google.com/maps/contrib/101480777473615745896/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.724641,4.0,81,"(Translated by Google) A beautiful park of saint henri, quiet atmosphere
+
+(Original)
+Un beau parc de saint henri, ambiance tranquille"
+157,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURVcFpLNGJREAE,Ram Gopalbhai,https://www.google.com/maps/contrib/101922127646017986111/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.726350,5.0,139,"(Translated by Google) Beautiful park.
+
+(Original)
+Beau parc."
+158,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNnMWVQazZ3RRAB,Lee Brunet,https://www.google.com/maps/contrib/110015225119701750667/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.727960,5.0,200,"(Translated by Google) It is one of the most beautiful park in the southwest!
+
+(Original)
+C'est un des plus beau parc du sud-ouest!"
+159,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUMwa1pEQXBBRRAB,JPais - Vlog Tv,https://www.google.com/maps/contrib/106197862457731468470/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.730112,5.0,63,"(Translated by Google) beautiful day
+
+(Original)
+belle journée"
+160,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURnaWJYWWJnEAE,Guillaume Pépin-Larivière,https://www.google.com/maps/contrib/103395832643502106024/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.732312,5.0,7,"(Translated by Google) Good place for surveying
+
+(Original)
+Bonne place pour l'arpentage"
+161,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURnaHZtcWZBEAE,Jean-Marc Sénéchal,https://www.google.com/maps/contrib/117691830251379325799/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.734894,4.0,94,"(Translated by Google) Nice park well maintained.
+
+(Original)
+Joli parc bien entretenu."
+162,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURnNzdYZDVRRRAB,Ugo Foisy,https://www.google.com/maps/contrib/102908249574277452329/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.738077,4.0,48,"(Translated by Google) Beautiful park to relax
+
+(Original)
+Beau parc pour relaxer"
+163,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURBcU5pcE5REAE,Nathalie Duguay,https://www.google.com/maps/contrib/103272238771403359235/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.747932,4.0,62,"(Translated by Google) Beautiful park, friendly people
+
+(Original)
+Beau parc, gens sympathiques"
+164,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNnMmJqb1dBEAE,Ami Amie,https://www.google.com/maps/contrib/112531151884853102508/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.749646,5.0,69,"(Translated by Google) Beautiful fountain park
+
+(Original)
+Beau parc fontaine"
+165,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNNZzZLUkRREAE,Med Himmes,https://www.google.com/maps/contrib/118004889022140761013/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.751407,4.0,53,"(Translated by Google) Great
+
+(Original)
+Super"
+166,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUR3LW95YjVBRRAB,Hugues Lavoie,https://www.google.com/maps/contrib/112236497960838648005/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.753204,5.0,49,"(Translated by Google) Massive shade, a fountain, swimming pool, tennis court, benches and picnic tables
+
+(Original)
+De l'ombre en masse, une fontaine, une piscine, court de tennis, bancs et tables de picnic"
+167,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNRMm8tOUF3EAE,Claudia Doyon,https://www.google.com/maps/contrib/118361741556243660479/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.756968,5.0,61,"(Translated by Google) Very clean
+
+(Original)
+Tres propre"
+168,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURBcklDUnpRRRAB,Fabien,https://www.google.com/maps/contrib/104071761745180833868/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.759255,5.0,57,"(Translated by Google) Very nice park for picnic
+
+(Original)
+Parc très agréable pour faire des picnic"
+169,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUMwMHNpOFB3EAE,Onelia Greatty,https://www.google.com/maps/contrib/115060275942205462779/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.761379,5.0,310,"(Translated by Google) Nice square
+
+(Original)
+Linda plaza"
+170,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNVek5UcGRREAE,Nicole Gauthier,https://www.google.com/maps/contrib/113290794763721367717/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.764421,5.0,5,"(Translated by Google) Nature in Montreal
+
+(Original)
+La nature à Montréal"
+171,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNBdllYdkZnEAE,Leila Duclos,https://www.google.com/maps/contrib/102985741639080328725/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.776063,4.0,53,"(Translated by Google) Beautiful park
+
+(Original)
+Beau parc"
+172,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURFNHRTMFZ3EAE,Marc Pilon,https://www.google.com/maps/contrib/104049301397045232885/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.778402,4.0,98,"(Translated by Google) Wooowwww
+
+(Original)
+Wooowwww"
+173,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURneFBhQXBnRRAB,Michel Labranche,https://www.google.com/maps/contrib/116298175855257980411/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.780640,5.0,46,"(Translated by Google) Very nice and clean park
+
+(Original)
+Très beau parc et propre"
+174,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURncXFURTJRRRAB,Sylvain Decelles,https://www.google.com/maps/contrib/106587527238075898334/reviews?hl=en-CA,8 years ago,2021-06-24 17:50:19.782841,5.0,136,"(Translated by Google) Nice urban park including a historic fountain more than a century old, a swimming pool and tennis courts ... At a street corner of the Lachine Canal.
+
+(Original)
+Joli parc urbain incluant une fontaine historique plus que centenaire, une piscine et des courts de tennis... À un coin de rue du Canal Lachine."
+175,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNVem9Ic2JBEAE,lou desro,https://www.google.com/maps/contrib/104520960924003351255/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.784579,2.0,57,"(Translated by Google) Bins overflowing all the time
+
+(Original)
+Les poubelles débordes tout le temps"
+176,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNBN1A3ckJBEAE,Gentleman Lemur,https://www.google.com/maps/contrib/110516459495948199375/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.786005,5.0,58,"(Translated by Google) It's beautiful and all
+
+(Original)
+C'est beau pis toute"
+177,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNRc3BEVUx3EAE,M Pariente,https://www.google.com/maps/contrib/106758872167602404675/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.788551,5.0,625,"(Translated by Google) Best place to live in St-Henri
+
+(Original)
+Meilleur endroit pour vivre a St-Henri"
+178,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNBZ0x1QkJnEAE,Reza Mokari,https://www.google.com/maps/contrib/110551784009929395391/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.805835,5.0,131,"(Translated by Google) Perfect
+
+(Original)
+Parfait"
+179,Square Sir-George-Étienne-Cartier,ChRDSUhNMG9nS0VJQ0FnSUNRcHExZBAB,Phil Vihenderville,https://www.google.com/maps/contrib/102783291100752431004/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.807951,5.0,3,"(Translated by Google) The most park
+
+(Original)
+Le plus parc"
+180,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUN3OTdMT3JnRRAB,annick theriault,https://www.google.com/maps/contrib/114269377280187468566/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.809749,4.0,46,"(Translated by Google) Public square
+
+(Original)
+Place public"
+181,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNnaVp2Y193RRAB,Kathy Lecuyer,https://www.google.com/maps/contrib/104068556365980836741/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.811236,5.0,7,"(Translated by Google) Nice place
+
+(Original)
+Belle place"
+182,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURBNU1PUlhREAE,malak salhi,https://www.google.com/maps/contrib/101295495911799753069/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.821848,4.0,3,"(Translated by Google) Clean and dogs are allowed
+
+(Original)
+Propre et les chiens sont permis"
+183,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNRaU5LaTVBRRAB,Anakaren Orozco,https://www.google.com/maps/contrib/110467500270478427956/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.823993,5.0,169,"(Translated by Google) One of the best parks in Mtl
+
+(Original)
+Uno de los mejores parques de Mtl"
+184,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNnMEtIYWhRRRAB,Annie Lapointe,https://www.google.com/maps/contrib/106863702202910860927/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.825432,4.0,26,"(Translated by Google) Nice place to collect.
+
+(Original)
+Bel endroit pour se recueillir."
+185,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURRNUstZkVREAE,Julien Guay,https://www.google.com/maps/contrib/100735710950917127890/reviews?hl=en-CA,8 years ago,2021-06-24 17:50:19.826979,5.0,1,"(Translated by Google) Very nice park
+
+(Original)
+Tres beau parc"
+186,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNBc0tHdUJBEAE,Patrick Roy,https://www.google.com/maps/contrib/105465061889516968429/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.828649,5.0,1,"(Translated by Google) This is the park of my childhood
+
+(Original)
+C'est le parc de mon enfance"
+187,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURpM1BQd193RRAB,Alex,https://www.google.com/maps/contrib/111408609220284886276/reviews?hl=en-CA,6 months ago,2021-06-24 17:50:19.830555,4.0,3,
+188,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUR5bl96TF93RRAB,Alexandra Nadeau,https://www.google.com/maps/contrib/116973844823786489518/reviews?hl=en-CA,3 months ago,2021-06-24 17:50:19.832326,2.0,0,
+189,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNxcy1pMV93RRAB,Ninon Romanet,https://www.google.com/maps/contrib/107483890519378081294/reviews?hl=en-CA,6 days ago,2021-06-24 17:50:19.835534,4.0,6,
+190,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUQ4bmJyLV9nRRAB,Vanessa Gaspard,https://www.google.com/maps/contrib/108341704730907831054/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:19.839562,5.0,26,
+191,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUM0MmZhcF9nRRAB,Valentina Semichina,https://www.google.com/maps/contrib/108828418258203972189/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.849062,4.0,0,
+192,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUQ4ejdfOV9RRRAB,Anïa T,https://www.google.com/maps/contrib/106666239925037923693/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:19.852044,5.0,56,
+193,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNxdFpubF9RRRAB,Hotsizzle TV,https://www.google.com/maps/contrib/111573083733422430541/reviews?hl=en-CA,a week ago,2021-06-24 17:50:19.855174,5.0,14,
+194,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURNd0thRl9RRRAB,Mélanie Le Bras,https://www.google.com/maps/contrib/106221347163386586134/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.857540,4.0,11,
+195,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURnbmZpQl9RRRAB,Martin Perreault,https://www.google.com/maps/contrib/102420147795787385285/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.859827,4.0,19,
+196,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNVOUtqTV9BRRAB,Patrice Gravel,https://www.google.com/maps/contrib/102053066820960615432/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.861270,4.0,2,
+197,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURLelp1LV9BRRAB,Sandra Sablouni,https://www.google.com/maps/contrib/117257731652221183028/reviews?hl=en-CA,a month ago,2021-06-24 17:50:19.864306,5.0,6,
+198,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURRel9XN19BRRAB,Patrick Varin,https://www.google.com/maps/contrib/116915815402323676518/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.877030,5.0,0,
+199,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUM4Z29lZi1RRRAB,Elizabeth White,https://www.google.com/maps/contrib/106638860027782430722/reviews?hl=en-CA,11 months ago,2021-06-24 17:50:19.878688,3.0,13,
+200,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNvZ1pqdjl3RRAB,Monique Mayers,https://www.google.com/maps/contrib/114112581059111354163/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.880690,4.0,19,
+201,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNRemRQRzl3RRAB,james frank,https://www.google.com/maps/contrib/113832952544960438528/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.882550,5.0,0,
+202,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUQ0Z1BYUDlnRRAB,caroline custodio,https://www.google.com/maps/contrib/100338321478843695887/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.884497,4.0,17,
+203,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNDd3RuTDlRRRAB,Yury Jasleidy Estepa Avellaneda,https://www.google.com/maps/contrib/106811324781557299101/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:19.886699,5.0,2,
+204,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURzOGJDZTlRRRAB,Vinh Do,https://www.google.com/maps/contrib/114449667036758937564/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.898457,4.0,2,
+205,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNZOE51QzhBRRAB,Holly Friesen Art,https://www.google.com/maps/contrib/108087560207158549943/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.901125,5.0,43,
+206,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNjOEllSjdRRRAB,Elzear 41,https://www.google.com/maps/contrib/117916447033404845243/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.902964,5.0,42,
+207,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUMwbUluSDdBRRAB,Sawsan El qozi,https://www.google.com/maps/contrib/103858680488164849699/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.904623,5.0,12,
+208,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUQwM2Q3ejZ3RRAB,Olivier Rosa,https://www.google.com/maps/contrib/108096480369689500947/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.907059,4.0,13,
+209,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNxd3ZTaDZnRRAB,Nadezda Ershova,https://www.google.com/maps/contrib/104637743047121703860/reviews?hl=en-CA,3 weeks ago,2021-06-24 17:50:19.909547,5.0,31,
+210,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNROHFLZzZnRRAB,Giovanni Beltrame,https://www.google.com/maps/contrib/116562174362043833555/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:19.911590,5.0,1,
+211,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNDak0zbzZBRRAB,Minal C.,https://www.google.com/maps/contrib/106628233963972526582/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:19.924551,3.0,862,
+212,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNBLXN6TjZBRRAB,Laurence c.venne,https://www.google.com/maps/contrib/113844527594633726773/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:19.927089,4.0,54,
+213,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNZczlXcDZBRRAB,Jonathan Lessard,https://www.google.com/maps/contrib/114883779997704154918/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.930186,5.0,16,
+214,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURVNmJ6WDV3RRAB,Jennifer Mullen,https://www.google.com/maps/contrib/110403283308205092895/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.932950,5.0,82,
+215,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUQ4c2ZDODV3RRAB,Simon Dadouche,https://www.google.com/maps/contrib/101081526278252761638/reviews?hl=en-CA,11 months ago,2021-06-24 17:50:19.938814,4.0,49,
+216,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUM0MGJxZDVRRRAB,Pamela Alvarado,https://www.google.com/maps/contrib/102640821837747278122/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.947906,4.0,11,
+217,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURFeHAySTVBRRAB,Semsar Redha,https://www.google.com/maps/contrib/107042396439646976782/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.949618,2.0,8,
+218,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUM0ak9MSDR3RRAB,Cédric Lam,https://www.google.com/maps/contrib/111409550035274781820/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.951268,4.0,1,
+219,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURVdk16VTRnRRAB,Kostas Panayiotakis,https://www.google.com/maps/contrib/105194448395861872035/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.952801,5.0,33,
+220,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNxMXZTeDRnRRAB,Gaetan Demers,https://www.google.com/maps/contrib/101915522920730069931/reviews?hl=en-CA,2 weeks ago,2021-06-24 17:50:19.955372,5.0,5,
+221,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURzcnJ5UjRRRRAB,tom Morris,https://www.google.com/maps/contrib/111330472898747138266/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.957768,3.0,7,
+222,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURVOHVibDRBRRAB,Dris Corbeil,https://www.google.com/maps/contrib/103665582030217858868/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.959996,3.0,0,
+223,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURVcXB6aTNnRRAB,Catherine Clavel,https://www.google.com/maps/contrib/108270436773195597707/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.961891,5.0,112,
+224,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNVLWFHcjNnRRAB,M S,https://www.google.com/maps/contrib/101021684908179079273/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.972484,3.0,5,
+225,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURzLWVYcTNRRRAB,Anne Parisi,https://www.google.com/maps/contrib/101374574857435876894/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.979271,4.0,12,
+226,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURDdXNuUDNRRRAB,Anthony Rancourt,https://www.google.com/maps/contrib/107220410926416956853/reviews?hl=en-CA,9 months ago,2021-06-24 17:50:19.981195,5.0,12,
+227,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNNM3JhVzNRRRAB,Marcela Rodriguez,https://www.google.com/maps/contrib/109684109785691101258/reviews?hl=en-CA,a year ago,2021-06-24 17:50:19.983115,5.0,70,
+228,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURvbXBYQzNBRRAB,Laurence Dauphinais,https://www.google.com/maps/contrib/103298114360753167047/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.985291,5.0,1,
+229,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURBczZlVTNBRRAB,Patof Clown,https://www.google.com/maps/contrib/112755602531840386934/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:19.987584,5.0,0,
+230,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUR3NkpEVjJ3RRAB,Marc Dufour,https://www.google.com/maps/contrib/101543671250711522590/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.002482,4.0,58,
+231,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURLdHZHVDJnRRAB,Guneet “Gubear” Jaura,https://www.google.com/maps/contrib/107338348479268156571/reviews?hl=en-CA,a month ago,2021-06-24 17:50:20.004104,5.0,1,
+232,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUMwNFk3NTJRRRAB,Bruce Wayne,https://www.google.com/maps/contrib/100067306846373888728/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.006115,4.0,0,
+233,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURVX19XMjJRRRAB,Russell Vaz,https://www.google.com/maps/contrib/112241280827981597126/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.008084,4.0,57,
+234,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURzeE83cTJBRRAB,Marianne Morel-Flowerday,https://www.google.com/maps/contrib/108445085675615194918/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.009598,5.0,11,
+235,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURBdWFfRjJBRRAB,Chris de C.,https://www.google.com/maps/contrib/101762616608506284492/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.011096,4.0,30,
+236,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNNMDd2aTFnRRAB,Jahn Ha yes,https://www.google.com/maps/contrib/108478833247094932537/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.021592,3.0,25,
+237,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURLaU1LODFnRRAB,Krystle Desbiens,https://www.google.com/maps/contrib/106924797500959539779/reviews?hl=en-CA,a month ago,2021-06-24 17:50:20.023273,4.0,2,
+238,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURrM1pxRDFnRRAB,eddy kik,https://www.google.com/maps/contrib/115433490386139724177/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.025100,4.0,23,
+239,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUN3NUpYYTFRRRAB,Ghislain Lalonde,https://www.google.com/maps/contrib/116150921208910844613/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.027362,5.0,38,
+240,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNVektyUDFRRRAB,Andree-anne Belanger,https://www.google.com/maps/contrib/113589955573770817549/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.029970,4.0,3,
+241,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNLdjhDZDFRRRAB,louis-france rivest,https://www.google.com/maps/contrib/106521720367449943898/reviews?hl=en-CA,a month ago,2021-06-24 17:50:20.031451,4.0,21,
+242,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNRajdlWjFRRRAB,LP B,https://www.google.com/maps/contrib/104568252034018347927/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.033340,5.0,42,
+243,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURZaXZuSTFBRRAB,La Fille Kemite,https://www.google.com/maps/contrib/116544301539105464657/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.039456,4.0,0,
+244,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNBNklQZTBnRRAB,faroq Ibrahim,https://www.google.com/maps/contrib/105997787159797035359/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:20.049066,5.0,30,
+245,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURjc3JfbTBRRRAB,Alexandre Hétu,https://www.google.com/maps/contrib/114072632231516885950/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.050789,5.0,9,
+246,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURVanFlejBRRRAB,Pierre CHAUSSEE,https://www.google.com/maps/contrib/113422401955289907409/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.052206,4.0,8,
+247,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUMwMEtlcHp3RRAB,Richard Gaglewicz,https://www.google.com/maps/contrib/112560403892018742378/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.053788,5.0,16,
+248,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNxd09uV3pnRRAB,Yves Cubaynes,https://www.google.com/maps/contrib/109838097638277934544/reviews?hl=en-CA,a month ago,2021-06-24 17:50:20.056303,5.0,27,
+249,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURNMWM3RHpnRRAB,Anaïs Berzi,https://www.google.com/maps/contrib/105105015114060696223/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.059019,5.0,2,
+250,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURLek1hdnlRRRAB,Desir Frantz,https://www.google.com/maps/contrib/103157353090840863965/reviews?hl=en-CA,a month ago,2021-06-24 17:50:20.060577,5.0,2,
+251,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNNbm9hc3lRRRAB,Hany Boktor,https://www.google.com/maps/contrib/104054336580772650382/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.062979,4.0,85,
+252,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUM4MEtlOHhnRRAB,François Dallaire,https://www.google.com/maps/contrib/101148545051141663974/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.072865,5.0,45,
+253,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNVeDhlRXhnRRAB,Annie Perreault,https://www.google.com/maps/contrib/113048397314983711085/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:20.077824,5.0,140,
+254,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNnaHZuYndnRRAB,Georges Alexandar,https://www.google.com/maps/contrib/113238549104689439053/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:20.079719,5.0,13,
+255,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNBamIyN3dRRRAB,Cédric St-Onge,https://www.google.com/maps/contrib/106120095371881372391/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:20.081164,5.0,17,
+256,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNVcUo2ZXdRRRAB,amamra souad,https://www.google.com/maps/contrib/116336001053646251470/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.082821,5.0,1,
+257,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNnczdmandBRRAB,Frederic Buchanan,https://www.google.com/maps/contrib/116803828254709460811/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.084828,3.0,32,
+258,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURreTR1eXZ3RRAB,Amity Dèm,https://www.google.com/maps/contrib/110710800979847134413/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.087898,4.0,18,
+259,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUQwLU1hT3ZnRRAB,juan mendoza,https://www.google.com/maps/contrib/117339104453372904819/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.097748,4.0,3,
+260,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURrMTR2bHZRRRAB,genevieve tremblay-fafard,https://www.google.com/maps/contrib/101387232102891425660/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.099500,3.0,4,
+261,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURVMHFQcXV3RRAB,pejman Ghiaee,https://www.google.com/maps/contrib/103931594539213639027/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.100945,3.0,11,
+262,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUMwa2FpenV3RRAB,Luc Faucher,https://www.google.com/maps/contrib/117097525228318920142/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.102347,4.0,16,
+263,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURpNVB2WXVnRRAB,Jemal M Yesuf,https://www.google.com/maps/contrib/110239040945959055319/reviews?hl=en-CA,6 months ago,2021-06-24 17:50:20.104481,5.0,59,
+264,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURBcHFPenVnRRAB,Sabrina Forget,https://www.google.com/maps/contrib/104404572432557177377/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.105997,2.0,14,
+265,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNDNGNXbXVnRRAB,Simon Bullock,https://www.google.com/maps/contrib/102288258036590904607/reviews?hl=en-CA,9 months ago,2021-06-24 17:50:20.107931,5.0,53,
+266,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURTb2J5ZXVnRRAB,Lori .Garvin,https://www.google.com/maps/contrib/118227668613142164982/reviews?hl=en-CA,5 months ago,2021-06-24 17:50:20.109858,5.0,6,
+267,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNVeTc2Y3VRRRAB,Karl Wojciechowski,https://www.google.com/maps/contrib/111781348611800784260/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.111592,5.0,19,
+268,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNpM092SXR3RRAB,Laurence A. Lamarre,https://www.google.com/maps/contrib/111593515980454272164/reviews?hl=en-CA,7 months ago,2021-06-24 17:50:20.122811,5.0,37,
+269,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURBMFphUXR3RRAB,jean-pierre forget,https://www.google.com/maps/contrib/116048350646510132906/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:20.124834,4.0,62,
+270,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNRX1pYbXRnRRAB,Jayson Duclos-Charest,https://www.google.com/maps/contrib/109768108495451274679/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.126560,4.0,44,
+271,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUMwMU5tNXN3RRAB,Andres Felipe,https://www.google.com/maps/contrib/103530425461726061857/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.128995,5.0,0,
+272,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURRMjlPbXN3RRAB,Aurélien Girard,https://www.google.com/maps/contrib/113575942579169665203/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.130885,5.0,26,
+273,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURBLWRlWnN3RRAB,Monica Suarez,https://www.google.com/maps/contrib/104901256260815817937/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.132871,4.0,13,
+274,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURjdVpYNHNBRRAB,Samuel Tardif,https://www.google.com/maps/contrib/117257332053417098642/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.135658,5.0,11,
+275,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURDNE9MVnNBRRAB,Kim Carpentier,https://www.google.com/maps/contrib/107717946426918631103/reviews?hl=en-CA,9 months ago,2021-06-24 17:50:20.138998,5.0,2,
+276,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURnN0pTeXNBRRAB,Fadi Khoury,https://www.google.com/maps/contrib/112660437219140945486/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:20.147777,4.0,5,
+277,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURVcFAtY3NBRRAB,Laura Santana Nuñez,https://www.google.com/maps/contrib/115376629213947713143/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.149700,5.0,28,
+278,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURVbklUNXJ3RRAB,Bruno St-Jacques,https://www.google.com/maps/contrib/118146304310035332825/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.151689,5.0,1,
+279,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURNNUt1QXJ3RRAB,Natasha Reid,https://www.google.com/maps/contrib/107307816661112314194/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.153297,4.0,14,
+280,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNRN1AzRXJRRRAB,S Marcotte,https://www.google.com/maps/contrib/106008746249258058111/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:20.155829,4.0,157,
+281,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURVNUppNnJBRRAB,péché mignon,https://www.google.com/maps/contrib/106212128950550008167/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.158355,4.0,0,
+282,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURLMXUzZHF3RRAB,Arnaud Boré,https://www.google.com/maps/contrib/102855106555107071243/reviews?hl=en-CA,a month ago,2021-06-24 17:50:20.160336,5.0,2,
+283,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNnc0xDa3F3RRAB,Sophie Ménard,https://www.google.com/maps/contrib/104749929614709545316/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.162869,5.0,39,
+284,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURBZ01DU3FnRRAB,Sandy Estefania,https://www.google.com/maps/contrib/113827514533856709296/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.172980,5.0,12,
+285,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNDOEp6TnFRRRAB,Dave Hima,https://www.google.com/maps/contrib/109189984159166518657/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:20.176886,5.0,35,
+286,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUM4ay03bHFBRRAB,Teejay,https://www.google.com/maps/contrib/106296482313728756685/reviews?hl=en-CA,11 months ago,2021-06-24 17:50:20.178933,3.0,11,
+287,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNnMm96WnB3RRAB,Marie Solange Bernstchez,https://www.google.com/maps/contrib/102088935219162400938/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.180633,4.0,10,
+288,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNVeV96NnBnRRAB,Danielle Salois,https://www.google.com/maps/contrib/107252607963723053381/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.182918,4.0,2,
+289,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNnblB2R3BnRRAB,Emilie R,https://www.google.com/maps/contrib/102599753090863859191/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.184999,3.0,23,
+290,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURRN09YVHBRRRAB,André Fagnant,https://www.google.com/maps/contrib/104723052205702957571/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.186910,4.0,22,
+291,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURBaVp2MXBBRRAB,김성현,https://www.google.com/maps/contrib/111906067278701989034/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:20.189619,4.0,5,
+292,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURZM1k2dnBBRRAB,Julius Bau Martin,https://www.google.com/maps/contrib/112563087421331501328/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.201672,5.0,28,
+293,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUM4a19pWm93RRAB,Natasha Gauthier,https://www.google.com/maps/contrib/105035737390169268677/reviews?hl=en-CA,11 months ago,2021-06-24 17:50:20.203544,5.0,83,
+294,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNDb2NULW9nRRAB,L Rdguez,https://www.google.com/maps/contrib/100637599644523637280/reviews?hl=en-CA,9 months ago,2021-06-24 17:50:20.206583,3.0,297,
+295,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURBOEl1MG9nRRAB,Danielle Saumier,https://www.google.com/maps/contrib/117744383279246878827/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.208929,5.0,0,
+296,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNvbHZLdW9nRRAB,Elise Peters,https://www.google.com/maps/contrib/104090068539543217683/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.211119,5.0,25,
+297,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURLOWFDcW9nRRAB,Patrick L. Perreault,https://www.google.com/maps/contrib/111687769140911186667/reviews?hl=en-CA,a month ago,2021-06-24 17:50:20.221765,4.0,6,
+298,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNZcDdYSm9RRRAB,Jean-Claude Wasik,https://www.google.com/maps/contrib/105542075386020844659/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.223999,5.0,5,
+299,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUR3cE5iQm9RRRAB,Danny Gauthier,https://www.google.com/maps/contrib/106448722563339530664/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.226005,5.0,51,
+300,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUQ4bDd5Zm9BRRAB,Naveed Hussain,https://www.google.com/maps/contrib/101114917689639550651/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:20.227516,5.0,6,
+301,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNBdHQzQ25nRRAB,M-A Parent,https://www.google.com/maps/contrib/106635355495475763238/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.229167,5.0,4,
+302,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUN3OTY3RW5RRRAB,Thomas Duhamel,https://www.google.com/maps/contrib/100085901735747012842/reviews?hl=en-CA,5 years ago,2021-06-24 17:50:20.231055,4.0,76,
+303,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUN3a0xPUm5RRRAB,Mazen Boustani,https://www.google.com/maps/contrib/100447733030445855401/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.232682,4.0,8,
+304,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNxOE5xQ25RRRAB,Patrick Roussy,https://www.google.com/maps/contrib/116425028975435137679/reviews?hl=en-CA,4 weeks ago,2021-06-24 17:50:20.235185,5.0,5,
+305,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUN3bDgycm5BRRAB,Aline Gelderblom,https://www.google.com/maps/contrib/107382741778675562070/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.238170,2.0,38,
+306,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNVdklXcm5BRRAB,Gabrielle Généreux,https://www.google.com/maps/contrib/112402114158384535106/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.248129,4.0,67,
+307,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUM4MXYycG5BRRAB,Annick Galarneau,https://www.google.com/maps/contrib/106236265595086246444/reviews?hl=en-CA,11 months ago,2021-06-24 17:50:20.250858,4.0,0,
+308,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUN3ekl1Tm1nRRAB,Mladen Krcivoj,https://www.google.com/maps/contrib/100628043390554462215/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:20.252930,5.0,11,
+309,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNpbV83Mm1RRRAB,Navneeth Rajakrishnan,https://www.google.com/maps/contrib/107924261102272316409/reviews?hl=en-CA,7 months ago,2021-06-24 17:50:20.256421,5.0,7,
+310,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURLdGJfVW1RRRAB,Karl Xavier Dagenais,https://www.google.com/maps/contrib/100051612450688931280/reviews?hl=en-CA,a month ago,2021-06-24 17:50:20.258097,5.0,89,
+311,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNBbllLY21RRRAB,Naum Volodymyr,https://www.google.com/maps/contrib/104429767163094501092/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.262833,5.0,18,
+312,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNBaWJiMGx3RRAB,Alexandre Gauthier,https://www.google.com/maps/contrib/114924170450839585713/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.272954,4.0,6,
+313,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURVN19IY2xnRRAB,Lat Mbaye,https://www.google.com/maps/contrib/105504824662906048902/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.277673,5.0,4,
+314,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNBNFpTYmxRRRAB,Eophos Lakkle,https://www.google.com/maps/contrib/100099655289975174074/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:20.279170,4.0,64,
+315,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURRbXBEX2xBRRAB,Alexandre Griegenbauer,https://www.google.com/maps/contrib/100891051150520160175/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.281354,3.0,1,
+316,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURNa0ozbGxBRRAB,Lyne Raymond,https://www.google.com/maps/contrib/110125536169678122657/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.283255,4.0,5,
+317,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURBMzVQRmxBRRAB,Sara Bouthillier,https://www.google.com/maps/contrib/112623218997664943177/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.284954,5.0,7,
+318,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNBOW9lRmxBRRAB,Julie Laurin,https://www.google.com/maps/contrib/102828425577188202966/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.286397,5.0,5,
+319,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUQwX3JXM2t3RRAB,Ria V Koch,https://www.google.com/maps/contrib/116652680738628821902/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.297544,4.0,29,
+320,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNJamNuemtnRRAB,Maher Kouraytem (MAHERK76),https://www.google.com/maps/contrib/108185597258421269136/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.301664,5.0,153,
+321,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURVdmY3OGtBRRAB,Kevin Francois,https://www.google.com/maps/contrib/103664828281939342069/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.303147,4.0,1,
+322,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUN3N0xEemtBRRAB,Olivier Lemaitre,https://www.google.com/maps/contrib/106897130435139372074/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:20.305099,5.0,10,
+323,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNRaUxiM2p3RRAB,chaminda peiris,https://www.google.com/maps/contrib/101778305483576564119/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.307130,3.0,39,
+324,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNLM3A3RmpRRRAB,Sonia Grégoire,https://www.google.com/maps/contrib/108905417873791036924/reviews?hl=en-CA,2 months ago,2021-06-24 17:50:20.308711,5.0,3,
+325,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURDalpmcmpBRRAB,Stephanie B,https://www.google.com/maps/contrib/108823792779635180329/reviews?hl=en-CA,8 months ago,2021-06-24 17:50:20.310791,4.0,76,
+326,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNxa0thV2pBRRAB,wonghowe,https://www.google.com/maps/contrib/102959376319289217627/reviews?hl=en-CA,a month ago,2021-06-24 17:50:20.314678,4.0,3,
+327,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNRc1l2YWl3RRAB,Kevin Thomas,https://www.google.com/maps/contrib/116074286251746714210/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.324404,5.0,8,
+328,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURVbHVXcml3RRAB,Marie-Claire Bouthillier,https://www.google.com/maps/contrib/117123433099386316356/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.326841,5.0,74,
+329,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNBZ0lqMGlnRRAB,Angelika Hutchinson,https://www.google.com/maps/contrib/103536574684823496768/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.328765,5.0,5,
+330,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUN5cDhMUmlnRRAB,Adam Zaghlool,https://www.google.com/maps/contrib/115096566910880298850/reviews?hl=en-CA,4 months ago,2021-06-24 17:50:20.330336,4.0,6,
+331,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNncUp6R2lRRRAB,Sébastien Carreau,https://www.google.com/maps/contrib/109697526964743196969/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.332394,5.0,11,
+332,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURVbzhLUGlRRRAB,David Hartle,https://www.google.com/maps/contrib/108473935224673960900/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.335325,5.0,74,
+333,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURZdU1xX2lBRRAB,QcP RainingAcid,https://www.google.com/maps/contrib/110462129971805335657/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.337882,5.0,11,
+334,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURBM3M2eGlBRRAB,Audré V,https://www.google.com/maps/contrib/116364815826988239354/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.347588,5.0,13,
+335,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNRazd6U2h3RRAB,Guilherme Pimenta,https://www.google.com/maps/contrib/107590381216287004678/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.350380,5.0,2,
+336,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUQwaHNYS2h3RRAB,Manon Latour,https://www.google.com/maps/contrib/107416386254374093715/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.352112,5.0,39,
+337,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNBc2VPVGh3RRAB,Sophie-A Gagnon,https://www.google.com/maps/contrib/110803026965790986698/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.353528,5.0,7,
+338,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURnamNlSGh3RRAB,Marc-André Voyer,https://www.google.com/maps/contrib/115021374194539188992/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.356059,2.0,55,
+339,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUM4MExmN2hnRRAB,Yannick St-Onge (Yünnick),https://www.google.com/maps/contrib/116261866429118608168/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.358403,3.0,28,
+340,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURLLVp2ZWhnRRAB,Jean-Francois “Aratharas” Poirier Michaud,https://www.google.com/maps/contrib/103587150378771057038/reviews?hl=en-CA,a month ago,2021-06-24 17:50:20.360343,5.0,9,
+341,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNJekt5cmhRRRAB,Saad Khattak,https://www.google.com/maps/contrib/113046786135082519220/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.363110,4.0,14,
+342,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURBb29TYWhRRRAB,Jason Jarnet,https://www.google.com/maps/contrib/108841030388753293635/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.372392,4.0,9,
+343,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSURRejdXZmhBRRAB,Andre Phu-Van Nguyen,https://www.google.com/maps/contrib/113874669669671003850/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.378436,4.0,11,
+344,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNJcW9TWWhBRRAB,Denis Demers,https://www.google.com/maps/contrib/108880159161865197394/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.380397,5.0,7,
+345,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNLbWJqcWdBRRAB,Laurie C,https://www.google.com/maps/contrib/103592668674654164547/reviews?hl=en-CA,2 months ago,2021-06-24 17:50:20.381832,4.0,2,
+346,Square Sir-George-Étienne-Cartier,ChdDSUhNMG9nS0VJQ0FnSUNxbm8yWmdBRRAB,Anthony Legere,https://www.google.com/maps/contrib/101502000596036670731/reviews?hl=en-CA,2 weeks ago,2021-06-24 17:50:20.384317,4.0,7,
+347,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNzeF91M2ZnEAE,Med Ben Arbia,https://www.google.com/maps/contrib/106828636310248494571/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.386025,5.0,11,
+348,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURBdnJ1UmZnEAE,Vincent Lemarier Martin,https://www.google.com/maps/contrib/113637062330844784173/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.388371,3.0,23,
+349,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUM4czZqMmZBEAE,Roy Semple,https://www.google.com/maps/contrib/114420281385263971706/reviews?hl=en-CA,11 months ago,2021-06-24 17:50:20.397822,5.0,34,
+350,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURraS0yeGZBEAE,cristovao costa gonçalves,https://www.google.com/maps/contrib/107900319087267952434/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.399630,5.0,27,
+351,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURDMk12NWVnEAE,Sandra Ferrusca,https://www.google.com/maps/contrib/109783064796346436333/reviews?hl=en-CA,9 months ago,2021-06-24 17:50:20.401056,5.0,38,
+352,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUM4aTkzamVnEAE,Nathalie Malartre,https://www.google.com/maps/contrib/101357069633737579596/reviews?hl=en-CA,11 months ago,2021-06-24 17:50:20.403279,4.0,11,
+353,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUR5OEkzUGVnEAE,Marcel Bissonnette Kenny,https://www.google.com/maps/contrib/116848633796058162882/reviews?hl=en-CA,4 months ago,2021-06-24 17:50:20.404959,5.0,30,
+354,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURnd016Q2VnEAE,Jainal Chisty,https://www.google.com/maps/contrib/104723191977305386679/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.407323,5.0,13,
+355,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNRMjZXeGVnEAE,Suzanne Pinet,https://www.google.com/maps/contrib/102964160500489893281/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.413104,5.0,35,
+356,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNDenVIS2VREAE,Nathanel Titane,https://www.google.com/maps/contrib/101462132469973311689/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:20.423475,5.0,47,
+357,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURDcXZ6OWVBEAE,Vad Im,https://www.google.com/maps/contrib/116498238057164167984/reviews?hl=en-CA,9 months ago,2021-06-24 17:50:20.426832,5.0,12,
+358,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURnX01iN2VBEAE,Helen Palacios,https://www.google.com/maps/contrib/110509972983048662648/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.428647,5.0,0,
+359,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNxNGFtRWR3EAE,vincent bouhard,https://www.google.com/maps/contrib/112835770831706525817/reviews?hl=en-CA,2 weeks ago,2021-06-24 17:50:20.430439,5.0,6,
+360,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNxei0zWWRnEAE,Ahmed Souki,https://www.google.com/maps/contrib/103498919438578159736/reviews?hl=en-CA,a day ago,2021-06-24 17:50:20.432456,5.0,4,
+361,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUM4MjREQWRnEAE,Pierre Duranceau,https://www.google.com/maps/contrib/106859806949221331712/reviews?hl=en-CA,11 months ago,2021-06-24 17:50:20.435439,4.0,2,
+362,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURndmJLTGRnEAE,Eduardo Labbé,https://www.google.com/maps/contrib/114767269983997608098/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.438427,5.0,3,
+363,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURjLW9EbWRREAE,Yves Duhamel,https://www.google.com/maps/contrib/105266938395962848136/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.447255,5.0,73,
+364,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUMwdXRQSWRBEAE,Julián Rodríguez,https://www.google.com/maps/contrib/108666017814248514576/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.448684,5.0,1,
+365,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURDeTdqV2NnEAE,Gaspar Cazeaux,https://www.google.com/maps/contrib/108981569070114076356/reviews?hl=en-CA,8 months ago,2021-06-24 17:50:20.450901,5.0,14,
+366,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURrbWFfVWNREAE,aradhana,https://www.google.com/maps/contrib/115793265049792222260/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.452368,5.0,19,
+367,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURZcjZ5N2NBEAE,Antonio Bruzzese,https://www.google.com/maps/contrib/113819004530891237755/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.454656,5.0,57,
+368,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNxN19xMWNBEAE,Stephen Lapointe,https://www.google.com/maps/contrib/100584009579699434295/reviews?hl=en-CA,a day ago,2021-06-24 17:50:20.457346,4.0,55,
+369,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURDemRpd2NBEAE,PenDraco Comics,https://www.google.com/maps/contrib/106600007391556497856/reviews?hl=en-CA,8 months ago,2021-06-24 17:50:20.459257,5.0,5,
+370,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNDb016c2J3EAE,Greg Hunt,https://www.google.com/maps/contrib/108683443499556967487/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:20.460935,5.0,4,
+371,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNVMUxLVmJ3EAE,michel beaudin,https://www.google.com/maps/contrib/110851146168535284041/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.463576,4.0,5,
+372,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUQwdXZpS2J3EAE,walid achour,https://www.google.com/maps/contrib/106652933365830838290/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.473097,5.0,98,
+373,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNVd2VlQ2J3EAE,Animuuu-u,https://www.google.com/maps/contrib/101021941087409246308/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.478058,5.0,1,
+374,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURNaHE3a2JnEAE,Manon S,https://www.google.com/maps/contrib/113736937994922065654/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.480279,3.0,3,
+375,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURVcnNpVmJnEAE,"juarez, who?",https://www.google.com/maps/contrib/104160440028145289602/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.482225,2.0,40,
+376,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNxbTdqbGJREAE,Antonina D,https://www.google.com/maps/contrib/104344216351685727116/reviews?hl=en-CA,5 days ago,2021-06-24 17:50:20.485215,5.0,0,
+377,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURnbjZERGJREAE,france gagne,https://www.google.com/maps/contrib/104945957929235859407/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.488252,5.0,34,
+378,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUN3cWJpa2JREAE,Sean McDade,https://www.google.com/maps/contrib/117395984945930923755/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.497709,5.0,31,
+379,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNnMnNhWmJBEAE,Febys Karina Castillo Soto,https://www.google.com/maps/contrib/112286627650606599097/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.499477,5.0,0,
+380,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNVMmI2VmJBEAE,Jesus Emmanuel Lostanau Sánchez,https://www.google.com/maps/contrib/106331310249247169084/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.501752,5.0,48,
+381,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURnMi1QaWF3EAE,DNA Telus,https://www.google.com/maps/contrib/114342394083289030243/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.503652,5.0,1,
+382,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURRdm82M2F3EAE,Arthur Voegel,https://www.google.com/maps/contrib/111807905923874393299/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.505397,2.0,2,
+383,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURVdmZQMWFREAE,sb,https://www.google.com/maps/contrib/105051247108920292058/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.507623,5.0,2,
+384,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNxcUozYmFREAE,Mathieu Parent,https://www.google.com/maps/contrib/103758066269525972210/reviews?hl=en-CA,4 weeks ago,2021-06-24 17:50:20.509277,4.0,22,
+385,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUMwc3VHaGFREAE,German Trujillo,https://www.google.com/maps/contrib/106233312981465871464/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.511363,5.0,6,
+386,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURVNmZLT2FBEAE,Artur Staszewski,https://www.google.com/maps/contrib/104745094082472970594/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.522348,5.0,11,
+387,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNBem9iUVp3EAE,Rose Jone Baker,https://www.google.com/maps/contrib/117134423523721620964/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.524265,5.0,21,
+388,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURRaEtyRVpnEAE,Lee Mendelsohn,https://www.google.com/maps/contrib/110577804884418278207/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.525822,4.0,1,
+389,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUN3NVlYUFpREAE,Martin Juneau,https://www.google.com/maps/contrib/116960218919003834436/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.529063,5.0,89,
+390,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNLc3Y2SFlnEAE,Fred Trepanier,https://www.google.com/maps/contrib/108723242330442446383/reviews?hl=en-CA,2 months ago,2021-06-24 17:50:20.530741,4.0,7,
+391,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURZNnJ2YllBEAE,Stephanie CLAVEL,https://www.google.com/maps/contrib/110422156872583821226/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.532212,5.0,11,
+392,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURDdmViblh3EAE,Jean-William Côté,https://www.google.com/maps/contrib/116860459584417489778/reviews?hl=en-CA,8 months ago,2021-06-24 17:50:20.534944,4.0,28,
+393,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURrOThXeFh3EAE,Norman Schmidt,https://www.google.com/maps/contrib/110629696439877919183/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.537150,5.0,2,
+394,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURZMzRLdVh3EAE,Mathieu Rivest,https://www.google.com/maps/contrib/110225786132455321313/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.548191,5.0,26,
+395,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURjMkp6Q1hnEAE,Khaled Aliane,https://www.google.com/maps/contrib/105748146528877871244/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.550592,5.0,0,
+396,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNBN2FhclhnEAE,Shawn Proulx,https://www.google.com/maps/contrib/113748371227705082720/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.552120,4.0,76,
+397,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUM4dnZHUlhBEAE,Line Dubois,https://www.google.com/maps/contrib/105928019934853871283/reviews?hl=en-CA,11 months ago,2021-06-24 17:50:20.557664,5.0,8,
+398,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNnemVEbldnEAE,Chantale Lacoste,https://www.google.com/maps/contrib/105519737223808477327/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:20.560124,5.0,0,
+399,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURjbXZHU1dnEAE,Etienne Cardinal Gagnon,https://www.google.com/maps/contrib/112219830920599253155/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.562684,5.0,0,
+400,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNVc0pqaldREAE,Alejandro Morales,https://www.google.com/maps/contrib/104580745001607058061/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.572584,4.0,0,
+401,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUQ4aWFmMldBEAE,Leslie Lefèvre,https://www.google.com/maps/contrib/116163291360644331870/reviews?hl=en-CA,11 months ago,2021-06-24 17:50:20.575202,5.0,24,
+402,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNDdm8zeFZ3EAE,Karima Bouabida,https://www.google.com/maps/contrib/115384495468703243323/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:20.577080,5.0,21,
+403,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURrbGRlWlZnEAE,Albert Kamanzi,https://www.google.com/maps/contrib/113790165365421243791/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.578910,5.0,33,
+404,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURZNnIzeFZREAE,J Naj,https://www.google.com/maps/contrib/116992967544280670075/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.580356,5.0,8,
+405,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNVemRQbFV3EAE,Nicolas Belzile,https://www.google.com/maps/contrib/118227513066841435978/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.581970,5.0,205,
+406,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURBODdxX1V3EAE,Mathias Orsucci,https://www.google.com/maps/contrib/109273461021334190133/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.584034,5.0,78,
+407,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURLd09xVFV3EAE,Patrick Shearing,https://www.google.com/maps/contrib/110272645296666973661/reviews?hl=en-CA,a month ago,2021-06-24 17:50:20.586062,5.0,40,
+408,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUM0a1BpRVV3EAE,jade marcoux-archambault,https://www.google.com/maps/contrib/105689517522973575606/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.589399,5.0,55,
+409,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURBNU5mZ1VREAE,Phil Andrews,https://www.google.com/maps/contrib/107489040755981468592/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.598558,5.0,11,
+410,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNRbU1HVlVREAE,walid Moukarzel,https://www.google.com/maps/contrib/109864276726184285848/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.600478,5.0,6,
+411,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNvajl1OFR3EAE,Eric Beaudette,https://www.google.com/maps/contrib/115039881475701707187/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.602080,5.0,23,
+412,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNDeXFfZ1RREAE,Christ-lee “MOWHAK WARRIOR” Gabriel,https://www.google.com/maps/contrib/108898508621772559110/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:20.603747,5.0,6,
+413,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNxM2FpdFRREAE,Jacob,https://www.google.com/maps/contrib/102658316924174864982/reviews?hl=en-CA,a week ago,2021-06-24 17:50:20.605596,5.0,9,
+414,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUM0djZ5clRREAE,Livius Popa,https://www.google.com/maps/contrib/113450815558085374731/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.607449,5.0,43,
+415,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNpeGZDbFRREAE,Isaac Davis (Angus-Michel M. Davis),https://www.google.com/maps/contrib/104631431086055295335/reviews?hl=en-CA,7 months ago,2021-06-24 17:50:20.609197,5.0,7,
+416,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNVal9ybFRBEAE,Death Meister,https://www.google.com/maps/contrib/107069082118509425257/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.612154,2.0,0,
+417,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURBN0sycVRBEAE,Cynthia Pleau,https://www.google.com/maps/contrib/108112285397561330468/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.622529,5.0,11,
+418,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUM4OTVUUVN3EAE,Pampa N.,https://www.google.com/maps/contrib/111812246966623050498/reviews?hl=en-CA,11 months ago,2021-06-24 17:50:20.625594,4.0,16,
+419,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUQ4cS1hU1N3EAE,Mathieu McKinnon,https://www.google.com/maps/contrib/103388542746091643255/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:20.628557,5.0,1,
+420,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURVenNQQVNnEAE,Joseph Dynbort,https://www.google.com/maps/contrib/110757090904642700704/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.630680,5.0,25,
+421,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURnaHNHZVNnEAE,Serge Turgeon,https://www.google.com/maps/contrib/104730556125217346596/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.632969,5.0,8,
+422,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURjMk5PU1NnEAE,benmargsi youcef amine,https://www.google.com/maps/contrib/101102417640323652617/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.636620,5.0,1,
+423,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUM4c01PdFNREAE,Adrian Williams,https://www.google.com/maps/contrib/105311691452167884277/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.646987,5.0,6,
+424,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURnNmNYSlNBEAE,Gladys Cérival,https://www.google.com/maps/contrib/101775216113832490246/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:20.648416,5.0,25,
+425,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNVeTdPalNBEAE,Julie Boisvert,https://www.google.com/maps/contrib/101720626948800357249/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.650204,4.0,64,
+426,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNVLWRmNVJnEAE,Jera Cravo Rio Branco,https://www.google.com/maps/contrib/116454412560944256445/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.651890,5.0,121,
+427,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNvMTlHQ1JnEAE,YukooLeBg,https://www.google.com/maps/contrib/115920941650574287871/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.653511,5.0,0,
+428,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNDZ29iNlFnEAE,Anick l'Unik,https://www.google.com/maps/contrib/106396536045173440982/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:20.656503,5.0,4,
+429,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURLdDl6VlFnEAE,Caroline DesRosiers,https://www.google.com/maps/contrib/113350192943326349693/reviews?hl=en-CA,a month ago,2021-06-24 17:50:20.659946,5.0,52,
+430,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURreTREdVFREAE,Vanessa Gibeau,https://www.google.com/maps/contrib/116138554882335704447/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.661763,4.0,10,
+431,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNDenRiclFREAE,Bruno Bernard,https://www.google.com/maps/contrib/112172694564859073630/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:20.671599,4.0,48,
+432,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNVM2FyWlFREAE,Elvira De Angelis,https://www.google.com/maps/contrib/115585412557792684847/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.673588,5.0,3,
+433,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURjMkpQV1FBEAE,Maryse Ballard,https://www.google.com/maps/contrib/104171030167762255746/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.677286,4.0,1,
+434,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNxaTRtelFBEAE,Emilie Sarrasin,https://www.google.com/maps/contrib/109891956345983812357/reviews?hl=en-CA,6 days ago,2021-06-24 17:50:20.679647,5.0,1,
+435,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURnLU82R1FBEAE,Miss K Toupie,https://www.google.com/maps/contrib/117689608517497323007/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.681194,5.0,76,
+436,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUM0MC1YOVB3EAE,Dominic Lecuyer,https://www.google.com/maps/contrib/116433781414302582152/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.683289,5.0,0,
+437,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURRaXZqMFB3EAE,Inès Ben Khemis,https://www.google.com/maps/contrib/107905962942193447397/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.685129,5.0,64,
+438,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNDaE52WlBnEAE,Félix Brunet,https://www.google.com/maps/contrib/110451742161912748676/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:20.688172,5.0,14,
+439,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNBOVlMWFBnEAE,Areli Perea,https://www.google.com/maps/contrib/112198983503667285836/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.697600,5.0,1,
+440,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURDbXNqV1BBEAE,Philippe Bizard,https://www.google.com/maps/contrib/109576788450839222276/reviews?hl=en-CA,9 months ago,2021-06-24 17:50:20.699012,4.0,22,
+441,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURrX3FqTU93EAE,Lague Lynda,https://www.google.com/maps/contrib/110973896755859112892/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.701305,4.0,0,
+442,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUM4c05iak9nEAE,hyde aydee,https://www.google.com/maps/contrib/103257344390685486225/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.703194,5.0,7,
+443,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUN3OUpTUU9REAE,Jonathan Paquette,https://www.google.com/maps/contrib/102964264087427933745/reviews?hl=en-CA,6 years ago,2021-06-24 17:50:20.705576,5.0,252,
+444,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNDenVPQ09BEAE,David G,https://www.google.com/maps/contrib/102981044019467023560/reviews?hl=en-CA,10 months ago,2021-06-24 17:50:20.707753,5.0,44,
+445,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURraGJ2d053EAE,Alexandra Duarte,https://www.google.com/maps/contrib/104946953540073036859/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.709514,4.0,2,
+446,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNDeC1IbU53EAE,Yan St-Onge,https://www.google.com/maps/contrib/108171407561031150774/reviews?hl=en-CA,9 months ago,2021-06-24 17:50:20.711898,5.0,0,
+447,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUQweXAyaU53EAE,Justin Parker,https://www.google.com/maps/contrib/101311927012131381399/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.722138,5.0,15,
+448,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURnbUtqZE5nEAE,Arturo Rivero,https://www.google.com/maps/contrib/114487853139305895248/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.724186,4.0,93,
+449,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNxaXBIVU5nEAE,Xavier Villemaire,https://www.google.com/maps/contrib/114461982329009112338/reviews?hl=en-CA,3 weeks ago,2021-06-24 17:50:20.726058,5.0,1,
+450,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNBODdYRU5nEAE,Varin Patrick,https://www.google.com/maps/contrib/109214270240629481455/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.727924,4.0,0,
+451,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNRdU9iYk1nEAE,Roy Robitaille,https://www.google.com/maps/contrib/115192726905249054287/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.729588,4.0,2,
+452,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUN3d2VlSE1BEAE,Richard Lemay,https://www.google.com/maps/contrib/115909260641275964809/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:20.731536,1.0,2,
+453,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURrMktMUExnEAE,MeMiH,https://www.google.com/maps/contrib/103687166752533371285/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.734860,5.0,2,
+454,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURFLXByeExREAE,Colette Martel,https://www.google.com/maps/contrib/106077272927243763533/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.737100,5.0,23,
+455,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURBaXNQeExBEAE,Alex Raut,https://www.google.com/maps/contrib/108767698173561083582/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.746662,5.0,25,
+456,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNZa2FmZkt3EAE,Amélie Gendron-St-Georges,https://www.google.com/maps/contrib/117074607852008966228/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.748129,5.0,79,
+457,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURBOHMtdEt3EAE,Nordic Noni Green - NNG,https://www.google.com/maps/contrib/112911761121878311067/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:20.750125,5.0,0,
+458,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUMwMTdtYUt3EAE,philippe Auger,https://www.google.com/maps/contrib/104612154779620984942/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.751884,5.0,0,
+459,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURLMXRMcUtREAE,Nicolas Mouracadé,https://www.google.com/maps/contrib/105374559309306049434/reviews?hl=en-CA,a month ago,2021-06-24 17:50:20.753563,5.0,44,
+460,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNxM3BXUEtREAE,Rémi Boulanger,https://www.google.com/maps/contrib/117684746387986670938/reviews?hl=en-CA,2 weeks ago,2021-06-24 17:50:20.756249,5.0,0,
+461,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUN5Nm9fbUtBEAE,Luc Chouinard,https://www.google.com/maps/contrib/112917812089282032177/reviews?hl=en-CA,4 months ago,2021-06-24 17:50:20.757856,4.0,183,
+462,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNVd3N5T0tBEAE,Morgan Loupias,https://www.google.com/maps/contrib/108295513059285387523/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.759731,4.0,4,
+463,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURLbGNydkp3EAE,Robie Gale,https://www.google.com/maps/contrib/109647839353406032562/reviews?hl=en-CA,a month ago,2021-06-24 17:50:20.762804,5.0,30,
+464,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNRdllLWEp3EAE,Jason Bafaro,https://www.google.com/maps/contrib/101267216712749977172/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.772592,5.0,69,
+465,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUQwanFQQ0pBEAE,sayf Ahmed,https://www.google.com/maps/contrib/105028302635749674133/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.775911,5.0,0,
+466,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURLcUp1Z0pBEAE,Michel Lapointe,https://www.google.com/maps/contrib/111203620027219435824/reviews?hl=en-CA,a month ago,2021-06-24 17:50:20.778512,5.0,13,
+467,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURrN2JHdkl3EAE,Carrie,https://www.google.com/maps/contrib/102561729898289357170/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.780112,4.0,17,
+468,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURjal9QS0lnEAE,Georges K,https://www.google.com/maps/contrib/108320061116553095620/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.782154,5.0,4,
+469,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURBaW9YTklREAE,Maude Serrurier,https://www.google.com/maps/contrib/116799271228129753592/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.783596,4.0,6,
+470,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUN3aFktd0hnEAE,Elías Gil,https://www.google.com/maps/contrib/107096756191970736118/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.785592,5.0,4,
+471,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURZcTZDb0hnEAE,Jenny Cong,https://www.google.com/maps/contrib/110247006626000865717/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.788011,5.0,0,
+472,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURrMy1uT0hREAE,Nicolas Guerin,https://www.google.com/maps/contrib/111855798856180428943/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.797571,5.0,6,
+473,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURneHJydEd3EAE,Doumbia Yiritio,https://www.google.com/maps/contrib/115198747178286843134/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.799427,4.0,4,
+474,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURjMC1EZkd3EAE,H3FSilver,https://www.google.com/maps/contrib/110744197893584180953/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.801432,4.0,21,
+475,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURLNk8ya0d3EAE,J G,https://www.google.com/maps/contrib/100804911132542042073/reviews?hl=en-CA,a month ago,2021-06-24 17:50:20.803689,5.0,22,
+476,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURVa3JlQ0d3EAE,alexandre loof,https://www.google.com/maps/contrib/116841223707447851687/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.805477,4.0,62,
+477,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNRMWZfMkdnEAE,Pete,https://www.google.com/maps/contrib/105146290869502316853/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.807644,4.0,4,
+478,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURVdE51a0dBEAE,Jean Paul Damier,https://www.google.com/maps/contrib/108789762141546815270/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.809919,5.0,29,
+479,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURneExidUZ3EAE,Iván Morales,https://www.google.com/maps/contrib/114956172500109736653/reviews?hl=en-CA,5 years ago,2021-06-24 17:50:20.823597,3.0,17,
+480,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNDdjRmYUZ3EAE,Sebastian Hernandez,https://www.google.com/maps/contrib/101534190528638873873/reviews?hl=en-CA,9 months ago,2021-06-24 17:50:20.826678,5.0,41,
+481,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURjdXR2U0Z3EAE,Kirk Qayoom,https://www.google.com/maps/contrib/102667359527653974970/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.829026,4.0,4,
+482,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURRN1lyQUZ3EAE,Jen Ward,https://www.google.com/maps/contrib/116297008628588244777/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.831020,5.0,12,
+483,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURremVqM0ZnEAE,Conrad Noël,https://www.google.com/maps/contrib/113069756062359614122/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.833541,3.0,9,
+484,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNxa0tibkZnEAE,MT SB,https://www.google.com/maps/contrib/110828194209709372710/reviews?hl=en-CA,a month ago,2021-06-24 17:50:20.846549,5.0,3,
+485,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUMwaXFDREZnEAE,Liam Mulrooney,https://www.google.com/maps/contrib/102199772999338860557/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.848012,5.0,95,
+486,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURROExtWEZREAE,A B,https://www.google.com/maps/contrib/103380743169004350788/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.849502,5.0,26,
+487,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNnN2J2a0V3EAE,Daniel Master,https://www.google.com/maps/contrib/100591039561680868321/reviews?hl=en-CA,4 years ago,2021-06-24 17:50:20.852054,5.0,81,
+488,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURROTlINkVnEAE,Alessandra Szekut,https://www.google.com/maps/contrib/113844954022591834209/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.855169,5.0,28,
+489,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUN5OXRMckVBEAE,Jean Tremblay,https://www.google.com/maps/contrib/111865760702836495242/reviews?hl=en-CA,4 months ago,2021-06-24 17:50:20.857269,5.0,2,
+490,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNvOXBDQkRnEAE,RoXanna Bauer,https://www.google.com/maps/contrib/109935754002695270370/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.859178,5.0,4,
+491,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUN3dWJDZ0RBEAE,Iain Schmaltz,https://www.google.com/maps/contrib/116310922051042578105/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.860853,4.0,16,
+492,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURRaUlfSkNnEAE,Kent Oishi,https://www.google.com/maps/contrib/107874571604101573221/reviews?hl=en-CA,2 years ago,2021-06-24 17:50:20.863834,5.0,5,
+493,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNzNzlDZUNnEAE,adam crawford,https://www.google.com/maps/contrib/101953586133650180254/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.872852,5.0,130,
+494,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNzamJQMkNREAE,Gilles Lachapelle,https://www.google.com/maps/contrib/116364614724768649702/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.876673,5.0,1,
+495,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUR5MWZqT0NREAE,Riyaz Gopaulsingh (KeyzerSoze),https://www.google.com/maps/contrib/107098459847841256460/reviews?hl=en-CA,3 months ago,2021-06-24 17:50:20.878284,4.0,5,
+496,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNVN1k2bUNREAE,Jorge León,https://www.google.com/maps/contrib/117040114484429096847/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.880518,5.0,17,
+497,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNLODdHakJnEAE,Denis Dao,https://www.google.com/maps/contrib/103015134271717424285/reviews?hl=en-CA,2 months ago,2021-06-24 17:50:20.882127,4.0,20,
+498,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNVaVpPekJREAE,Antoine Gagnon,https://www.google.com/maps/contrib/100898892840097275729/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.884165,4.0,3,
+499,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUNpenZQN0F3EAE,رياض بلكر,https://www.google.com/maps/contrib/117877571458432538213/reviews?hl=en-CA,7 months ago,2021-06-24 17:50:20.886393,5.0,9,
+500,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSUN3eHBfa0F3EAE,Chantal Pelletier,https://www.google.com/maps/contrib/113256355321128226019/reviews?hl=en-CA,3 years ago,2021-06-24 17:50:20.889484,4.0,92,
+501,Square Sir-George-Étienne-Cartier,ChZDSUhNMG9nS0VJQ0FnSURVNmQzNEFREAE,Alain Denommee,https://www.google.com/maps/contrib/114096749992291517474/reviews?hl=en-CA,a year ago,2021-06-24 17:50:20.899189,4.0,49,

@@ -1,0 +1,642 @@
+,review_for,review_id,username,user_url,published,date_retrieved,num_stars,num_reviews,review_text
+0,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURpZ09QODlRRRAB,Truong Ngoc Vinh Le,https://www.google.com/maps/contrib/117708994993217948769/reviews?hl=en-CA,7 months ago,2021-06-22 14:35:03.265802,5.0,203,A nice park with good playground
+1,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURLNnA2QU5REAE,Leszek Kaczor,https://www.google.com/maps/contrib/107361783407471140037/reviews?hl=en-CA,a month ago,2021-06-22 14:35:03.266784,5.0,39,"family friendly, with a nice kids area park"
+2,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURVb2VIYTB3RRAB,Jean C Loko Earth,https://www.google.com/maps/contrib/117475646469025133342/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.267687,5.0,205,"Really love this place. Pretty clean, lots of green space. Me and my friend do lots of slacklining and we always come here to chill and relax. Great ambience. Thank you Montreal City to have so many park! Follow me up on Instagram for inspiring landscape photography; @loko.earth 🤙"
+3,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNVX0tQNVJnEAE,Daniel Abreu,https://www.google.com/maps/contrib/118429254346753316113/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.268583,5.0,37,"Lovely Park, Very Clean, And A Great Place To Relax."
+4,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNVM3NHOVpBEAE,WeaseL Logic,https://www.google.com/maps/contrib/115751070565431876754/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.269450,4.0,119,Decent park to chill and relax at. Great for kids also.
+5,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUN3c1BiSkl3EAE,Sheena Purcell,https://www.google.com/maps/contrib/106902907671680952829/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.270532,5.0,9,Nice park for kids and picnics.  Free kids pool in the summer and free outdoor skating in the winter with a small heated chalet to put your skates on in. Large green space with trees too. Never too busy.
+6,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUN3bS1DRVV3EAE,Ivo Ganassin,https://www.google.com/maps/contrib/105264365529908244555/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.271542,4.0,71,Fun park for the family. Great for relaxation and leisure time.
+7,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUN3X3J5MGV3EAE,Lidia Marinova,https://www.google.com/maps/contrib/116611057484136210778/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.272476,5.0,33,"Beautiful parc with old trees, nice little pool and several playgrounds. Really cool in the unbearable summer heat."
+8,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNnMi1mcXJBRRAB,Julie B.Savard,https://www.google.com/maps/contrib/101910337594443671430/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.273535,4.0,235,The trees are really good at being trees and you can barely heard the 40 highway over the scream of old people mad at you for playing pétanque on their boccé field. Very relaxing.
+9,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNRbnUzMUJnEAE,Dale Hayward-home,https://www.google.com/maps/contrib/113560527401812134779/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.274418,5.0,19,"Our local park, nice and quiet with a skating rink in the winter."
+10,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURVMHBYSnNBRRAB,Ricardo Mavares,https://www.google.com/maps/contrib/111837568387535415024/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.275277,5.0,30,Very nice place for family and children
+11,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURBdHJiNENBEAE,Marybeth Pak,https://www.google.com/maps/contrib/107016762372985476654/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.276133,4.0,61,"Very nice park!  Bathrooms, green space, kiddie pool and a toddler playground."
+12,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNRdi0tRktBEAE,Estelle OLIVIER,https://www.google.com/maps/contrib/109865485535662043152/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.276984,5.0,37,Good Parc well maintained and a lot of activities whatever the season ! Childs love it !
+13,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURRejlEaWZBEAE,Bagha Shams,https://www.google.com/maps/contrib/108655143160055420051/reviews?hl=en-CA,4 years ago,2021-06-22 14:35:03.277842,4.0,154,"Nice park for picnics, but there isn't much else to do."
+14,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURZaHVUaEh3EAE,PAUL SIVA,https://www.google.com/maps/contrib/118262636985117869532/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.278778,5.0,117,Nice clean place to relax
+15,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNRcXFPSWdnRRAB,Maud Vincent,https://www.google.com/maps/contrib/110690546505568368390/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.279638,5.0,151,"Great place, multigenerational parc."
+16,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNBdHFhc1lREAE,Kelvin Reyes,https://www.google.com/maps/contrib/112687358580540757095/reviews?hl=en-CA,4 years ago,2021-06-22 14:35:03.280506,5.0,132,Nice area to take a break and recharge batteries
+17,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURVNUxQd3Z3RRAB,Edy Monroy,https://www.google.com/maps/contrib/103059128876205733919/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.281903,3.0,5,good place
+18,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNVMk51X0RREAE,Éric Tsogo,https://www.google.com/maps/contrib/106432203522095500659/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.282796,3.0,11,Cool
+19,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNRaWVtRTNRRRAB,Dan Alexandru,https://www.google.com/maps/contrib/108390673787837386099/reviews?hl=en-CA,4 years ago,2021-06-22 14:35:03.283672,3.0,139,"Ok park, but not much to do. It's mostly for kiddie activities."
+20,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNvbG9MeFRnEAE,Endri Valles,https://www.google.com/maps/contrib/106696490364406693708/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.284624,5.0,9,Awesome
+21,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURVOExxTDVBRRAB,mario joseph,https://www.google.com/maps/contrib/102845623133596280320/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.285449,4.0,11,Nice
+22,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURJdU4yNVlBEAE,Sara M&P,https://www.google.com/maps/contrib/111303795969997442041/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.286276,5.0,15,Cool
+23,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNZM1BXeUx3EAE,Jason Ciciola,https://www.google.com/maps/contrib/116200964604308022929/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.287102,2.0,62,Pretty muddy
+24,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUN3eV9pS2dBRRAB,Didwo Pyè,https://www.google.com/maps/contrib/112680559609947143400/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.287926,5.0,31,funny
+25,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNBMk0zTDh3RRAB,Sreejith Menon,https://www.google.com/maps/contrib/100270054733636556811/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.289237,5.0,147,"Good park, kid friendly"
+26,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUN3anZHbmtnRRAB,Riadh ADEL,https://www.google.com/maps/contrib/101633532965857518254/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.290165,5.0,92,Clean with great condition playground
+27,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNRbC0yZW5RRRAB,Joe Tavormina,https://www.google.com/maps/contrib/106015577673040567929/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.291042,4.0,64,Use to come here when my kids were young.
+28,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURnMnRHRUFREAE,Bobby Wu,https://www.google.com/maps/contrib/107599600890963639026/reviews?hl=en-CA,4 years ago,2021-06-22 14:35:03.291899,4.0,47,Great  place for relaxing
+29,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURBdXVXcXhnRRAB,Simon Jal,https://www.google.com/maps/contrib/111832634026785360420/reviews?hl=en-CA,4 years ago,2021-06-22 14:35:03.292696,4.0,4,"For parents of under 6 years old kids or gold aged persons who like playing steel balling
+Also for some morning jogging."
+30,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNxbDdMWDZRRRAB,jay bencomo,https://www.google.com/maps/contrib/101442261583104574640/reviews?hl=en-CA,18 hours ago,2021-06-22 14:35:03.293492,5.0,5,Great
+31,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNxaGZpVW5nRRAB,Emeline Gleitz,https://www.google.com/maps/contrib/102025580267378105524/reviews?hl=en-CA,a week ago,2021-06-22 14:35:03.294474,4.0,28,"Très beau parc dans un beau quartier. Beaux équipements et jeux pour enfants. Le bémol est l'absence de toilettes ouvertes. Un Dj était là un vendredi soir pour animer le parc, c'est très sympa!"
+32,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNxaGRpQkFREAE,guillaume andriot,https://www.google.com/maps/contrib/106443837500386637038/reviews?hl=en-CA,a week ago,2021-06-22 14:35:03.295291,4.0,125,"De grandes pelouses arborées, de belles airs de jeux... malheureusement, la pataugeoire était fermée... Mais beau parc, nous y retournerons."
+33,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNxbUphYllREAE,marion MTL,https://www.google.com/maps/contrib/114652107863236560729/reviews?hl=en-CA,3 weeks ago,2021-06-22 14:35:03.296246,4.0,20,"(Translated by Google) Very nice installation of games for children. Large shaded area.
+All that's missing is the functioning toilets to make it our favorite park
+
+(Original)
+Très belle installation de jeux pour enfants. Grande zone ombragée.
+Il ne manque plus que les sanitaires en fonction pour en faire notre parc préféré"
+34,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURJbWREWFdREAE,Jean-Marc R,https://www.google.com/maps/contrib/105650662852710932022/reviews?hl=en-CA,a month ago,2021-06-22 14:35:03.297658,5.0,131,"(Translated by Google) Quiet park renovated in 2020-2021 offering swings and games for children, basket balloon baskets of different authors for young and old, water games, picnic tables, pétanque court. Very popular on beautiful summer days when families and friends come to share a meal, play outdoor games or simply rest.
+
+(Original)
+Parc tranquille rénové en 2020-2021 offrant des balançoires et jeux pour enfants, paniers de ballon-panier de différentes auteurs pour petits et grands, jeux d'eau, tables de picniques, terrain de pétanque. Très fréquenté par les belles journées d'été où les familles et ami(e)s viennent pour partager un repas, jouer à des jeux extérieurs ou tout simplement se reposer."
+35,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURLZ3R6dDFRRRAB,Moana Ladouceur,https://www.google.com/maps/contrib/101425048449610386801/reviews?hl=en-CA,a month ago,2021-06-22 14:35:03.298828,5.0,70,"(Translated by Google) Lots of renovations here recently! The children's park has been redone with beautiful new structures, and there is a new wading pool. They also had the decorations done by a multidisciplinary artist, and it shows! We see that the aesthetic is particular and not trivial. There are roofed bocce courts, a new court with basketball hoops, and plenty of room for a picnic, in the grass or on a table. In fact, the picnic tables are designed to be wheelchair accessible. Notice to interested parties: there is a Pokémon Go gym in the middle. Well done!
+
+(Original)
+Beaucoup de rénovations ici récemment! Le parc pour enfants a été refait avec de belles structures neuves, et il y a une nouvelle pataugeuse. Ils ont également fait faire les décorations par une artiste multidisciplinaire, et ça paraît! On voit que l'esthétique est particulière et pas banale. Il y a des terrains de bocce protégés par un toit, un nouveau terrain avec des paniers de basketball, et beaucoup de place pour pique-niquer, dans l'herbe ou sur une table. D'ailleurs, les tables à pique-nique sont conçues de façon à être accessibles aux fauteuils roulants. Avis aux intéressés: il y a un gym de Pokémon Go au milieu. Bravo!"
+36,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNLa2RxdXZnRRAB,Naamane Djebbar,https://www.google.com/maps/contrib/105263999970140227532/reviews?hl=en-CA,2 months ago,2021-06-22 14:35:03.299674,1.0,9,"(Translated by Google) Almost $ 6 million in renovations thrown out the window. The old park was a thousand times better and let me explain. 1. There was a very nice fenced soccer field which was completely removed when we expected a nice synthetic pitch instead. 2. The children's play areas were fenced which made it easier to supervise the children as the neighborhood is crowded with daycares and families with young children. All the fences have been removed. 3. In all the places they dug, the sod was not reinstalled, they just put soil in its place. 4. There were a lot of benches around the play areas, there are only a few so that when there are a lot of people you have to stand. The skating rink is perhaps the only positive thing, we will see by the summer to judge. Big disappointment for the locals. In my opinion there should be an investigation to break down all the money spent on this project.
+
+(Original)
+Presque 6 millions de dollars de rénovations jetés par les fenêtres. L'ancien parc était mille fois mieux et je m'explique. 1. Il y avait un très beau terrain de soccer clôturé qui a été complètement supprimé alors qu'on s'attendait à un beau terrain synthétique à la place. 2. Les aires de jeux pour enfants étaient clôturés ce qui facilitait la supervision des enfants sachant que le quartier est bondé de garderies et de familles avec enfants à bas âges. Toutes les clôturés ont été supprimées. 3. À tous les endroits où ils ont creusés, le gazon n'a pas été réinstallé, ils ont juste mis de la terre à la place. 4. Il y avait beaucoup de bancs autour des aires de jeux, là il y en que quelues-uns ce qui fait que lorsqu'il y a beaucoup de monde t'es obligé de rester debout. Le pateageoire est peut-être bien la seule chose positive, on verra d'ici l'été pour juger. Grosse déception pour les gens du quartier. D'après moi il devrait y avoir une enquête pour ventiler toute l'argent dépensée dans ce projet."
+37,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNLMF9tVEpnEAE,Julie Maltais,https://www.google.com/maps/contrib/117629523349921647720/reviews?hl=en-CA,2 months ago,2021-06-22 14:35:03.300505,5.0,4,"(Translated by Google) Very very good! With the changes made my little girl loves the park !!
+
+(Original)
+Très très bien! Avec les changements apportés ma petite fille adore le parc!!"
+38,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURLbXBEMFJnEAE,Bérhaudiade Bain,https://www.google.com/maps/contrib/105806067296209902544/reviews?hl=en-CA,a month ago,2021-06-22 14:35:03.301349,5.0,7,"(Translated by Google) Freshly renovated. Very beautiful modules and water games
+
+(Original)
+Fraîchement rénové. Très beaux modules et jeux d’eau"
+39,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURLcmZubmhRRRAB,Boutheïna Boukadida,https://www.google.com/maps/contrib/113931719786740411895/reviews?hl=en-CA,a month ago,2021-06-22 14:35:03.302151,5.0,3,"(Translated by Google) Wow! The park is really beautiful.
+
+(Original)
+Wow! Le parc est vraiment beau."
+40,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURLdXBuRlFBEAE,nina Montréal sbs,https://www.google.com/maps/contrib/101369745250242103128/reviews?hl=en-CA,a month ago,2021-06-22 14:35:03.302948,1.0,1,"(Translated by Google) I don't really like the fence for the safety of the children
+
+(Original)
+J'aime pas trop ya pas la clôture pour la sécurité des enfants"
+41,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURLMElUUFVBEAE,Manon Morin,https://www.google.com/maps/contrib/105541536270325393705/reviews?hl=en-CA,a month ago,2021-06-22 14:35:03.303824,4.0,51,"(Translated by Google) Very nice renovation carried out in the park
+
+(Original)
+Très belle rénovation effectuer dans le parc"
+42,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURLd3Z6ek1REAE,Aurelie,https://www.google.com/maps/contrib/103440235815513290856/reviews?hl=en-CA,a month ago,2021-06-22 14:35:03.304630,5.0,91,"(Translated by Google) The play modules for the children are varied, there are several benches nearby for the parents, I have not tried the swimming pool, but it is definitely a beautiful park for the family
+
+(Original)
+Les modules de jeux pour les enfants sont variés, il ya plusieurs bancs à proximité pour les parents, je n'ai pas essayé la piscine, mais c'est définitivement un beau parc pour la famille"
+43,Parc Nicolas-Tillemont,ChRDSUhNMG9nS0VJQ0FnSUM4MzRkVBAB,Mitzy Reyes,https://www.google.com/maps/contrib/115588099280517575544/reviews?hl=en-CA,11 months ago,2021-06-22 14:35:03.305793,5.0,111,"(Translated by Google) It is undergoing renovations and it seems that it will take a while, I hope they finish it soon.
+
+Is on rebuilding and it seems it will take long time for be ready, I hope it finished soon
+
+(Original)
+Esta en remodelacion y parece que se va llevar un tiempo ojala lo terminen pronto.
+
+Is on rebuilding and it seems it will take long time for be ready, I hope it finished soon"
+44,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURpZ0pYX2l3RRAB,Dan WWK,https://www.google.com/maps/contrib/115787904399013537273/reviews?hl=en-CA,7 months ago,2021-06-22 14:35:03.306856,5.0,4,"(Translated by Google) Good as new !
+
+(Original)
+Refait à neuf !"
+45,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUN5NnRQSjVnRRAB,Alexandre Bergeron,https://www.google.com/maps/contrib/113964886861270234226/reviews?hl=en-CA,4 months ago,2021-06-22 14:35:03.307672,5.0,162,"(Translated by Google) Beautiful family park
+
+(Original)
+Beau parc familial"
+46,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURTdF8ySWRREAE,ruth grande,https://www.google.com/maps/contrib/100114253861146295914/reviews?hl=en-CA,5 months ago,2021-06-22 14:35:03.308486,4.0,133,"(Translated by Google) Diversity of games for children. In summer water games.
+
+(Original)
+Diversidad de juegos para niños.   En verano juegos de agua."
+47,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUM4aG9qYXh3RRAB,Karina Torres,https://www.google.com/maps/contrib/110867390787457407803/reviews?hl=en-CA,11 months ago,2021-06-22 14:35:03.309344,5.0,2,"(Translated by Google) Beautiful days with my children ☺️☺️
+
+(Original)
+Hermosos días con mis hijos ☺️☺️"
+48,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURTM2N5eTdRRRAB,ben ben,https://www.google.com/maps/contrib/118126530407372073706/reviews?hl=en-CA,5 months ago,2021-06-22 14:35:03.310173,1.0,28,"(Translated by Google) RIDICULOUS RENOVATION NO GAMES AT ALL
+
+(Original)
+RENOVATION RIDICULE PAS DU TOUT DE JEUX"
+49,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNxaElxZkhREAE,Caroline Godin,https://www.google.com/maps/contrib/111967358239258949204/reviews?hl=en-CA,3 weeks ago,2021-06-22 14:35:03.310978,3.0,1,"(Translated by Google) Lack of swimming pool for adults
+
+(Original)
+Manque piscine pour les adultes"
+50,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNpcjluVTBRRRAB,Savana Savana,https://www.google.com/maps/contrib/105044813812896632153/reviews?hl=en-CA,7 months ago,2021-06-22 14:35:03.311822,4.0,47,"(Translated by Google) Beautiful park swimming pool for children
+
+(Original)
+Beaux parc piscine pour enfants"
+51,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURNcWY3TkVBEAE,Sophie L,https://www.google.com/maps/contrib/116952265115543336894/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.313098,5.0,11,"(Translated by Google) In winter a beautiful chalet to put your skates right next to a large ice rink
+
+(Original)
+En hiver un beau chalet pour mettre ses patins juste a côté d'une grande patinoire"
+52,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNzcXYzNUlREAE,Emilie Blondin,https://www.google.com/maps/contrib/100298166456634326845/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.314286,5.0,7,"(Translated by Google) I think it would be a good idea if the park could be semi open to half in the spring, the work means that one side and its deprives us of our activities I live close by and it's the only park nearby
+
+Ps; I am not the only parent thought of the perimeter h2e1e5
+
+(Original)
+Je trouve que serais une bonne idée si Le parc pourrait être semi ouvert a la moitié aux printemps les travaux ce font qu'un coté et sa nous prive de nos activité je demeure tous près et c'est le seul parc a proximité
+
+Ps; je ne suis pas la seul parent a pensé sa du périmetre  h2e1e5"
+53,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNzbU5DZjZ3RRAB,Jean-François Belhumeur,https://www.google.com/maps/contrib/112273605246440752176/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.315199,1.0,27,"(Translated by Google) The park is completely fenced and there is no ice rink despite the notice that says it is open and the city's website ... CLOSED !!
+
+(Original)
+Le parc est entièrement clôturé et il n’y a pas de patinoire malgrés l’avis qui dit que c’est ouvert et le site internet de la ville... FERMÉ!!"
+54,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURrODVqNVJnEAE,Yoann Lussier,https://www.google.com/maps/contrib/108366424979984064344/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.316127,5.0,3,"(Translated by Google) The most imposing of this park is the space reserved for Bocce, a sport comparable to lawn bowling and petanque. In addition, the green spaces are large and the shadow is still there. Children can go there to pateauger and slide on the slides. In winter, I think they turn the place into an ice rink.
+
+(Original)
+Le plus imposant de ce parc est l'espace réservé au Bocce, ce sport comparable au boulingrin et à la pétanque. Outre cela, les espaces verts sont grand et l'ombre y est quand même présente. Les enfants peuvent s'y rendre pour pateauger et glisser sur les glissades. En hiver, je crois qu'ils transforment l'endroit en patinoire."
+55,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURFd3M2YW93RRAB,Veronique Silva Raposo,https://www.google.com/maps/contrib/106679850412201823789/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.317083,5.0,44,"(Translated by Google) I love this park as there are parks with fences as there is big ground to play. Super large park (there are petanque games / soccer field ..)
+
+(Original)
+J'adore ce parc autant il y a des parcs avec clôtures autant il y a du gros terrain pour pouvoir jouer. Super grand parc (il y a des jeux de pétanque/terrain de soccer ..)"
+56,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNVMjVYZTd3RRAB,Cécilia Daïni,https://www.google.com/maps/contrib/117222090447065625522/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.318252,4.0,65,"(Translated by Google) Nice little neighborhood park. Cage football, petanque covered, patogeoire for child. Bixi. Many trees to put their hammock
+
+(Original)
+Joli petit parc de quartier. Cage de foot, pétanque couverte, patogeoire pour enfant. Bixi. Beaucoup d arbres pr mettre son hamac"
+57,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUMwcU92OC1RRRAB,christian morin,https://www.google.com/maps/contrib/117561825364328780845/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.319176,3.0,10,"(Translated by Google) ha ouain .... jtaller at the park me ???? ha ben
+
+(Original)
+ha ouain....jtaller au parc moi????ha ben"
+58,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURVMGNiVlRBEAE,Jorge E. Bautista,https://www.google.com/maps/contrib/105219888149432288440/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.320272,5.0,51,"(Translated by Google) Very close to my home, very clean and I like to walk periodically.
+
+(Original)
+Très proche a ma résidence, très propre  et j'aime faire la marche périodiquement."
+59,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNveF91V1h3EAE,Claude Vincent,https://www.google.com/maps/contrib/110481892497476022241/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.321431,5.0,112,"(Translated by Google) Have done ice skating. Very pleasant. There is a cottage to change. Nice place for this activity even in the evening.
+
+(Original)
+Avons fait du patin à glace. Très plaisant. Il y a un chalet pour se changer. Bel endroit pour cette activité même en soirée."
+60,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURrN3VYWXNBRRAB,Darwin España,https://www.google.com/maps/contrib/101779036039378650615/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.322784,5.0,9,"(Translated by Google) Very nice park to spend the afternoon with family oh to celebrate parties
+
+(Original)
+Muy lindo parque para pasar las tarde con la familia oh para celebrar fiestas"
+61,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNNdTZtNEFnEAE,Hervé Maltais,https://www.google.com/maps/contrib/101304899400827422669/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.323660,5.0,23,"(Translated by Google) Bixi, nature, paradise.
+
+(Original)
+Bixi,la nature,le paradis."
+62,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURreGNhaUhREAE,François Skorzec (NoMoreDeps),https://www.google.com/maps/contrib/115260238127404821154/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.324522,5.0,16,"(Translated by Google) Great. With the open paddling pool it's a good time to spend with the kids
+
+(Original)
+Super. Avec la pataugeoire ouverte c'est un bon moment à passer avec les enfants"
+63,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURZcDh2US13RRAB,Maru Thomas,https://www.google.com/maps/contrib/115075766896573575195/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.325390,5.0,39,"(Translated by Google) Beautiful place to enjoy the outdoors with comfortable and safe playgrounds
+
+(Original)
+Hermoso lugar para disfrutar el aire libre con areas de juegos infantiles cómodas y seguras"
+64,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNBcmFpdHJ3RRAB,Julie Fiset,https://www.google.com/maps/contrib/106238083250065750795/reviews?hl=en-CA,4 years ago,2021-06-22 14:35:03.326249,4.0,30,"(Translated by Google) A beautiful little neighborhood park. A little oasis in summer. The games are beautiful. The paddling pool is popular. You can picnic at the feet of trees. A large pétanque pitch lit and sheltered for amateurs. I like to bring my children there.
+
+(Original)
+Un beau petit parc de quartier. Un petit oasis en été. Les jeux sont beaux. La pataugeoire est populaire. On peut pique-niquer au pieds des arbres. Un grand terrain de pétanque éclairé et abrité pour les amateurs. J'aime y amener mes enfants."
+65,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNNejhtckVREAE,Yves Rodrigue,https://www.google.com/maps/contrib/115507288124108690634/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.327094,5.0,40,"(Translated by Google) Very pretty park for cough.
+
+(Original)
+Très jolie parc pour tousse."
+66,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNVMDRpVVVnEAE,Daniel Desrochers 4383805148,https://www.google.com/maps/contrib/103973867478355532371/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.327933,5.0,18,"(Translated by Google) great place to relax during a bike tour
+
+(Original)
+superbe endroit pour relaxer pendant un tour de vélo"
+67,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNVeGVqc0xnEAE,Pamela Sue Aduen Bray,https://www.google.com/maps/contrib/105957043743009080797/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.329102,5.0,15,"(Translated by Google) The paddling pool and children's games are cool!
+
+(Original)
+La pataugeoire et les jeux pour enfants sont cool !"
+68,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURRNzVmV2NnEAE,abdelkader Akil,https://www.google.com/maps/contrib/109187308495392723656/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.330521,3.0,15,"(Translated by Google) A park reserved for winter activities, for children and. The adults.
+In April, it comes back to summer activities
+With all the best.
+
+(Original)
+Un parc réservé pour les activités d'hiver ,pour les enfants et. Les adultes.
+Au moi d 'avril ,il revient à activités d été
+Avec tout ce qu'il y a de mieux."
+69,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURVbGZyOFNnEAE,Oscar Santana,https://www.google.com/maps/contrib/101210878546518492146/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.331673,3.0,24,"(Translated by Google) It is a great parke and very little inhabited
+
+(Original)
+Es Un Gran Parke y Muy Poco Habitado"
+70,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURvaE1qYnJnRRAB,Benoit Marier,https://www.google.com/maps/contrib/101851820125236364241/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.332746,5.0,22,"(Translated by Google) In my opinion; it's really a beautiful, good and of course, relaxing average park and for that, I give it a BIG 5, GIVE ME 5, SINCO, CHINQUE .... SALAMAT HAA ... IN TAGALOG (PHILLS.)
+
+(Original)
+À mon avis; c'est vraiment un beau, bon et bien entendu, relaxant moyen parc et pour cela,je lui donne un GROS 5  ,GIVE ME 5 ,SINCO ,CHINQUE....SALAMAT HAA...IN TAGALOG (PHILLS.)"
+71,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNvbG9LRzlnRRAB,carol molina,https://www.google.com/maps/contrib/114052754990191537350/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.333689,5.0,154,"(Translated by Google) Beautiful park currently full of snow and so still enjoyed in the.
+
+(Original)
+Hermoso parque actualmente lleno de nieve y así aún se disfruta en el."
+72,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURJc2ItVVJREAE,DJAMEL HADDAD,https://www.google.com/maps/contrib/110299466865590436709/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.334951,5.0,143,"(Translated by Google) Nice for outings with children, family and friends
+
+(Original)
+Sympa pour sorties avec enfants, famille et amis"
+73,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURBakp2MVhnEAE,Tatiana Miranda,https://www.google.com/maps/contrib/108895550280919911824/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.335909,5.0,47,"(Translated by Google) A beautiful park, games for young and old, I have been coming here often since 2005, my grown-up was 18 months old.
+
+(Original)
+Un beau parc,des jeux pour les grand et petits,je viens ici souvent depuis 2005mon grand avait 18 mois."
+74,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURraWJfeE53EAE,Hachoum Bensagua,https://www.google.com/maps/contrib/117276235421445964205/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.336936,4.0,14,"(Translated by Google) Well my children have loved
+
+(Original)
+Bien mes enfants ont bcp aimé"
+75,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNVdktuTkdnEAE,Berthus Tanekeu,https://www.google.com/maps/contrib/105595251294005088112/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.338013,4.0,13,"(Translated by Google) Park with a large soccer field and a play area for children.
+
+(Original)
+Parc avec un grand terrain de soccer et un espace de jeu pour les enfants."
+76,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURRazVfeUVnEAE,Patrick Dufour,https://www.google.com/maps/contrib/108208232443233504578/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.339375,5.0,15,"(Translated by Google) He lacks music; small internship permanently allowing the musicians of the district to give free rein to their talents!
+
+(Original)
+Il manque de la musique ;  petit stage en permanence permettant aux musiciens du quartier de laisser libre court a leurs talents !"
+77,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNVMTZUSFlREAE,Lucas Gabriel Morales Bravo,https://www.google.com/maps/contrib/103703719585906674807/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.340362,5.0,18,"(Translated by Google) very well
+
+(Original)
+Muy bien"
+78,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURVa0luZkl3EAE,Armand Laliberte,https://www.google.com/maps/contrib/109477278946769463597/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.341259,5.0,71,"(Translated by Google) Its changing for the sake of children
+
+(Original)
+Sa changer pour le bien des enfants"
+79,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURVeWQ3Wl9BRRAB,lise arnold,https://www.google.com/maps/contrib/106965950329594508906/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.342157,3.0,83,"(Translated by Google) Its good
+
+(Original)
+Ses bien"
+80,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURRdUlUYVhnEAE,LB DL,https://www.google.com/maps/contrib/113518347046733763424/reviews?hl=en-CA,4 years ago,2021-06-22 14:35:03.343018,5.0,148,"(Translated by Google) Beautiful family park with play structures, a paddling pool, a soccer field in the summer and an ice rink in winter. Many children's parties take place there. It is a safe park and the police often come to chat with people.
+
+(Original)
+Beau parc familial avec des structures de jeu, une pataugeoire, un terrain de soccer l'été et une patinoire l'hiver. Beaucoup de fêtes d'enfant y ont lieu. C'est un parc sécuritaire et les policiers viennent souvent jaser avec les gens."
+81,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNBdFpmSEdREAE,Brice Colucci,https://www.google.com/maps/contrib/114569196647435095647/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.343889,5.0,31,"(Translated by Google) Very nice park with different games for children.
+
+(Original)
+Parc très sympa avec différents jeux pour les enfants."
+82,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNRaHNTTzdRRRAB,Veronique Chartrand,https://www.google.com/maps/contrib/100360555894839668788/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.344808,5.0,7,"(Translated by Google) Magnificent park for young and old! To picnic and have fun with family! Lots of summer activities in addition!
+
+(Original)
+Magnifique parc pour petits et grands! Pour picniquer et s'amuser en famille! Beaucoup d'activités l'été en plus!"
+83,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURBaXJmelZ3EAE,Dj Me,https://www.google.com/maps/contrib/106892353611150098715/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.346261,3.0,44,"(Translated by Google) Beautiful park but everyone is talking about a fussiade !!!
+
+(Original)
+Beau parc mais tout le monde parle d'une  fussiade!!!"
+84,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUM0N3VMWVdBEAE,eli bou,https://www.google.com/maps/contrib/118096445996140241189/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.347406,2.0,11,"(Translated by Google) Old modules for 5-12 year old children's pool.
+
+(Original)
+Vieux modules pour les 5-12 ans😔 piscine pour enfants ordinaire."
+85,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURBai1UZ0tBEAE,Francois Alain,https://www.google.com/maps/contrib/114748370258862576335/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.348465,5.0,11,"(Translated by Google) It's beautiful, it's new and there are facilities for young people and adults.
+
+(Original)
+C'est beau, c'est neuf et il y a des installations pour les jeunes et les adultes."
+86,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNBMDRmbG93RRAB,Joel Achilles D,https://www.google.com/maps/contrib/108676393799332595695/reviews?hl=en-CA,4 years ago,2021-06-22 14:35:03.349520,5.0,56,"(Translated by Google) Small quiet park great for pétanque !! And children with pool and three games area tables too
+
+(Original)
+Petit parc tranquille super pour la pétanque !!  Et les enfants  avec piscine et trois espace de jeux des tables aussi"
+87,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNndHZ6RXNRRRAB,Gauthier Claude,https://www.google.com/maps/contrib/104477456656730783882/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.350437,4.0,5,"(Translated by Google) Good place to relax or get the kids to play
+
+(Original)
+Bonne endroit pour se détendre ou amener les enfants jouer"
+88,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNnZ2VEOWxBRRAB,Carl Lussier,https://www.google.com/maps/contrib/105116856879812664663/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.351515,4.0,85,"(Translated by Google) Excellent park with ice to skate and play hockey!
+
+(Original)
+Excellent parc avec un glace pour patiner et jouer au hockey!"
+89,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNBd29pdGxRRRAB,Jean Christophe André,https://www.google.com/maps/contrib/113765991964317224647/reviews?hl=en-CA,7 years ago,2021-06-22 14:35:03.352506,5.0,43,"(Translated by Google) A very pleasant green space in summer, especially in the shade of foliage.
+
+(Original)
+Un espace vert très agréable en été, surtout à l'ombre des feuillages."
+90,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNnekxhNjdRRRAB,David Grégoire,https://www.google.com/maps/contrib/108476251240762200269/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.353830,3.0,151,"(Translated by Google) An ordinary park.
+
+(Original)
+Un parc ordinaire."
+91,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNRaHNPX19RRRAB,Kader Akil,https://www.google.com/maps/contrib/117292414352754453341/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.355099,1.0,48,"(Translated by Google) A safe park very busy with different ages, even the elderly. We can play sports, picnic,
+Place reserved for children, soccer and running fields.
+There is also an area reserved for the elderly for group games.
+
+(Original)
+Un parc sécuritaire très occupé par différentes âges, même les personnes âgées.on peut faire du sport ,picniquer,
+Place réservée pour les enfants ,des terrains de soccer et de course.
+Il y a aussi un terrain réservé pour les personnes âgées pour les jeux de groupes."
+92,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUN3cTVMamNnEAE,TheOne Me,https://www.google.com/maps/contrib/103072098221265034191/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.356041,3.0,15,"(Translated by Google) There is a lot of dirt in the sand, I imagine it's because of the lack of trash, but it's worrying to let my kids play in the sand when they can pick it up on the ground.
+
+(Original)
+Il y a beaucoup de saleté dans le sable, j'imagine que c'est à cause du manque de poubelle, mais c'est inquiétant de laisser mes jeunes jouer dans le sable lorsque qu'il peuvent ramasser tout ça par terre."
+93,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNVc0p5eE9nEAE,Jean Drouin,https://www.google.com/maps/contrib/110413149992853868820/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.356948,4.0,21,"(Translated by Google) In front of the Housing Regie, it feels good to
+Relax a little
+
+(Original)
+En face de la Regie du logements, ça fait du bien de
+Relaxer un peut"
+94,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURnMUxqZnNBRRAB,Claude Gauthier,https://www.google.com/maps/contrib/112343892977979540830/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.357938,4.0,67,"(Translated by Google) Good place to take a break
+
+(Original)
+Bon endrois pour faire ine pause"
+95,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURJeEpmOTZBRRAB,Antoinette Smith,https://www.google.com/maps/contrib/114669592188203119640/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.358877,5.0,14,"(Translated by Google) It is a beautiful place especially when spring comes to relax
+
+(Original)
+C'est un bel endroit surtout quand le printemps arrive pour se relaxer"
+96,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURncy1IR2l3RRAB,Nick AF,https://www.google.com/maps/contrib/116523307216717999953/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.359740,4.0,10,"(Translated by Google) Good little neighborhood park, soccer field, lots of bench, bocce, drinkers.
+
+(Original)
+Bon petit parc de quartier, terrain de soccer, beaucoup de banc, bocce, abreuvoirs."
+97,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURRODVEQ0V3EAE,hadda Bourdine,https://www.google.com/maps/contrib/108194368121344578825/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.360604,4.0,11,"(Translated by Google) Large space with beautiful arbs very nice
+
+(Original)
+Grand  espace  avec de beaux arbes très agréable"
+98,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURBaC1UTDJRRRAB,Louise Robert,https://www.google.com/maps/contrib/104494591971410042524/reviews?hl=en-CA,4 years ago,2021-06-22 14:35:03.361473,5.0,13,"(Translated by Google) Beautiful quiet park, but alive. Just missing a small dog park :) Picnic, soccer, paddling pool, petanque and games for children.
+
+(Original)
+Beau parc tranquille ,mais vivant. Manque juste un petit parc à chien :) Pique-nique, soccer, pataugeoire, pétanque et jeux pour enfants."
+99,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURFbmVmeWFnEAE,GameMind,https://www.google.com/maps/contrib/104374054287846430516/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.363165,4.0,50,"(Translated by Google) Beautiful park, generally clean
+
+(Original)
+Beau parc , generalement propre"
+100,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURZNzUzU0pnEAE,charles bilodeau,https://www.google.com/maps/contrib/103887161693480003491/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.364282,4.0,8,"(Translated by Google) Beautiful green space
+
+(Original)
+Bel espace vert"
+101,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUM0b0pyN2tBRRAB,Marc Nadeau,https://www.google.com/maps/contrib/116110276939682151740/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.365329,5.0,163,"(Translated by Google) Beautiful quiet park :)
+
+(Original)
+Beau parc tranquille :)"
+102,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURnXzZXWVdREAE,Laurent Duveau,https://www.google.com/maps/contrib/109251122329132342449/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.366321,4.0,508,"(Translated by Google) Interesting size park with soccer, paddling pool, recently refurbished children's games, and an Olympic caliber bowling alley !!!!
+
+(Original)
+Parc de taille intéressante avec soccer, pataugeoire, jeux d'enfants récemment remis à neuf, et un boulodrome de calibre Olympique!!!!"
+103,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNnc3ZURmxRRRAB,Alex Hernandez,https://www.google.com/maps/contrib/101879327774012257533/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.367287,4.0,172,"(Translated by Google) Good atmosphere
+
+(Original)
+Buen ambiente"
+104,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUN3OG95QjJRRRAB,Luc Lavoie,https://www.google.com/maps/contrib/115116419243248744881/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.368457,5.0,14,"(Translated by Google) Very good
+
+(Original)
+Tres bien"
+105,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURRellPLUVBEAE,Mc Ivo,https://www.google.com/maps/contrib/103124349091732231220/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.369806,3.0,40,"(Translated by Google) There is a lack of more activity for the neighborhood
+
+(Original)
+Il manque plus d activite pour le quartier"
+106,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURZdzdPWjhnRRAB,Sylvie Mailloux,https://www.google.com/maps/contrib/115235546156237806843/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.370982,5.0,23,"(Translated by Google) Great
+
+(Original)
+Super"
+107,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURneDZMUTB3RRAB,Romain R,https://www.google.com/maps/contrib/101080355306730086047/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.372036,5.0,57,"(Translated by Google) Excellent place
+
+(Original)
+Excellente place"
+108,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURZOUtfQ0dnEAE,Wady Bani,https://www.google.com/maps/contrib/110703948882129433856/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.372981,4.0,29,"(Translated by Google) C cool for the little ones
+
+(Original)
+C cool pour les petits"
+109,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNVOUlUSHdBRRAB,othmane majdoub,https://www.google.com/maps/contrib/115209245735910050146/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.373993,4.0,39,"(Translated by Google) Super calm at night
+
+(Original)
+Super calmer le soir"
+110,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNJcDQzZmpnRRAB,Chantal Deschambeault,https://www.google.com/maps/contrib/106300148914086033115/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.374902,5.0,16,"(Translated by Google) Beautiful day
+
+(Original)
+Belle journée"
+111,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURZamJPT2ZBEAE,Mahmoud Belmekki,https://www.google.com/maps/contrib/118122560938456730754/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.375797,3.0,6,"(Translated by Google) C good
+
+(Original)
+C bon"
+112,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNRc1liTTFnRRAB,Abdelkader Akil,https://www.google.com/maps/contrib/105161397917059905440/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.376697,2.0,121,"(Translated by Google) This is for everyone, children, adults, old
+
+(Original)
+C est lieu pour tout le Monde ,enfants, adultes,Vieux"
+113,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUN3OElEY2h3RRAB,Amal Cherouane,https://www.google.com/maps/contrib/111515629564095536571/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.377938,3.0,11,"(Translated by Google) Close for jobs
+
+(Original)
+Fermer pour des travaux"
+114,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUMweC02MWt3RRAB,Daniel Veileux,https://www.google.com/maps/contrib/105196390513060435610/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.380596,2.0,29,"(Translated by Google) he is in reconstruction
+
+(Original)
+il est en reconstruction"
+115,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURrOGRqcXR3RRAB,percy mejia rodriguez,https://www.google.com/maps/contrib/102781312618917497065/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.381766,5.0,151,"(Translated by Google) Pacifier
+
+(Original)
+Pacificador"
+116,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURZMHZuVER3EAE,Tarik ibnou ziyad algerie,https://www.google.com/maps/contrib/114443981743353485619/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.382850,5.0,7,"(Translated by Google) Well
+
+(Original)
+Bon"
+117,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUN3N0xTa0ZBEAE,hayat Rheaume,https://www.google.com/maps/contrib/104240384552108576518/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.383775,5.0,2,"(Translated by Google) Good for family and reading
+
+(Original)
+Bon pour les famille et lecture"
+118,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNROEktQUV3EAE,Jeff Paradis,https://www.google.com/maps/contrib/117611527749919635021/reviews?hl=en-CA,4 years ago,2021-06-22 14:35:03.384963,5.0,31,"(Translated by Google) Happiness for my daughters!
+
+(Original)
+Le bonheur pour mes filles!"
+119,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNVMjZITlJnEAE,David Jones,https://www.google.com/maps/contrib/115471083118899202078/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.386440,4.0,256,"(Translated by Google) African Festival.
+
+(Original)
+Festival Africain."
+120,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURneWVtZXZnRRAB,Olivier Tchapmi,https://www.google.com/maps/contrib/110325716472888038200/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.387793,4.0,316,"(Translated by Google) To visit
+
+(Original)
+A visiter"
+121,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUN3OGI2VHVBRRAB,Alfredo Jr. Romero,https://www.google.com/maps/contrib/111819906183126477731/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.388808,4.0,166,"(Translated by Google) Beautiful park
+
+(Original)
+Beau parc"
+122,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNBMmFhbkpREAE,Adrien Champagne,https://www.google.com/maps/contrib/110237472339220615355/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.389781,5.0,5,"(Translated by Google) Neighborhood Park with hockey rink
+
+(Original)
+Parc de quartier avec patinoire pour le hockey"
+123,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURnb1ppeVlREAE,Michel Lavoie,https://www.google.com/maps/contrib/112885375511358945163/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.390763,4.0,86,"(Translated by Google) Nice park, with beautiful mature trees
+
+(Original)
+Joli parc, avec de beaux arbres matures"
+124,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNnMElENHV3RRAB,Mélyse Larissa Malo,https://www.google.com/maps/contrib/103956611813416350024/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.391704,5.0,35,"(Translated by Google) It's a nice little park
+
+(Original)
+C'est un bon petit parc"
+125,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNRLUphaWN3EAE,RICK MÉCANIQUE,https://www.google.com/maps/contrib/105637200387776437432/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.392631,4.0,705,"(Translated by Google) Beautiful, quiet little park
+
+(Original)
+Beau petit parc tranquille"
+126,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNRclBDVjdnRRAB,Fredy Henriquez,https://www.google.com/maps/contrib/114816281673371947426/reviews?hl=en-CA,4 years ago,2021-06-22 14:35:03.393636,4.0,48,"(Translated by Google) Clean
+
+(Original)
+Propre"
+127,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURBNFBIbHRRRRAB,Pierre Teyssedre,https://www.google.com/maps/contrib/113142717495436195309/reviews?hl=en-CA,4 years ago,2021-06-22 14:35:03.394997,5.0,113,"(Translated by Google) Large park with games for children, playgrounds! With the pool next door!
+
+(Original)
+Grand parc avec des jeux pour enfants, des terrains de jeux ! Avec la piscine a côté !"
+128,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNndVpUZ21nRRAB,Tony C,https://www.google.com/maps/contrib/112796650849517051268/reviews?hl=en-CA,5 years ago,2021-06-22 14:35:03.395951,4.0,117,"(Translated by Google) nice little local park
+
+(Original)
+beau petite parc local"
+129,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNnNDh5LUNREAE,ganerf x,https://www.google.com/maps/contrib/101029294936665475341/reviews?hl=en-CA,5 years ago,2021-06-22 14:35:03.397026,4.0,1,"(Translated by Google) Several activities to do
+
+(Original)
+Plusieurs activités à faire"
+130,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURLcDREeV93RRAB,Mathieu Dubé,https://www.google.com/maps/contrib/108113725844293439379/reviews?hl=en-CA,a month ago,2021-06-22 14:35:03.397941,4.0,1,
+131,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNvbXFIbF93RRAB,Dino Delbosco,https://www.google.com/maps/contrib/115357486846766446038/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.399170,5.0,0,
+132,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURndnFfSF93RRAB,Valentin Guergov,https://www.google.com/maps/contrib/102819342343716643013/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.400144,4.0,24,
+133,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURRaFBxZl9RRRAB,Caroline Gosselin,https://www.google.com/maps/contrib/112727444172285047683/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.401485,5.0,66,
+134,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNReUlmeF9BRRAB,Yan Aumont,https://www.google.com/maps/contrib/116665134731405233834/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.403207,4.0,0,
+135,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNVeTRmNy13RRAB,Frédérick Ellien,https://www.google.com/maps/contrib/106624799709831612912/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.404310,4.0,63,
+136,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURZeEppay1nRRAB,Maryanne Tran,https://www.google.com/maps/contrib/102698194049610927731/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.405316,5.0,7,
+137,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUN5aXNhNy1RRRAB,Carmen Rondón Regalado,https://www.google.com/maps/contrib/102505303491776921937/reviews?hl=en-CA,4 months ago,2021-06-22 14:35:03.406381,5.0,1,
+138,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNJMTZXYi1BRRAB,Benoit “BenJack” Roy,https://www.google.com/maps/contrib/117131169038348869635/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.407617,5.0,2,
+139,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURNbzRiUDl3RRAB,Miran TV,https://www.google.com/maps/contrib/104347896547281234902/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.408636,4.0,14,
+140,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUM0cE1MOTlRRRAB,josephh sallafranque,https://www.google.com/maps/contrib/115294287486372474192/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.409592,5.0,3,
+141,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNnOTZqdjhBRRAB,Marianne L-C,https://www.google.com/maps/contrib/114729780874747580594/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.410865,3.0,9,
+142,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNna2FqcDd3RRAB,antoinephotographer,https://www.google.com/maps/contrib/107644999500741514398/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.412080,4.0,37,
+143,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUR5cTRqQzdRRRAB,Francisco T. Mota María,https://www.google.com/maps/contrib/110737678243898443671/reviews?hl=en-CA,3 months ago,2021-06-22 14:35:03.413089,5.0,12,
+144,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNVeEluVDZnRRAB,Lise St-Pierre,https://www.google.com/maps/contrib/110959913750485886725/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.414141,4.0,5,
+145,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNnMG9TdjZnRRAB,Ethzrard Lafortune,https://www.google.com/maps/contrib/118208654658454528994/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.415094,1.0,12,
+146,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUMwN09fNTZBRRAB,Evelyne Joseph,https://www.google.com/maps/contrib/100642136127456961727/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.416201,4.0,11,
+147,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURBMDU3ZzZBRRAB,Jennifer Nerio,https://www.google.com/maps/contrib/100767763784377078518/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.417121,5.0,1,
+148,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNzNWUzTjZBRRAB,Glorianny Pilar,https://www.google.com/maps/contrib/111893614258337209946/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.418103,5.0,15,
+149,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNzeEx2TTZBRRAB,isabel rodriguez,https://www.google.com/maps/contrib/115943666691935259794/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.419408,5.0,1,
+150,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURVcTlPYjV3RRAB,Mohamed Brouk,https://www.google.com/maps/contrib/101064939716994770289/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.420902,5.0,0,
+151,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNVMDZYUDVRRRAB,mathieu miron,https://www.google.com/maps/contrib/112629988027348792649/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.422003,5.0,9,
+152,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNnX3RxbTVRRRAB,Nadia Baouab,https://www.google.com/maps/contrib/114184113808809220780/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.423018,3.0,34,
+153,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNLOXJlVzVBRRAB,Pierre-Étienne Auclair,https://www.google.com/maps/contrib/101026352766506838475/reviews?hl=en-CA,2 months ago,2021-06-22 14:35:03.424130,5.0,3,
+154,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUQ0eDVLNjRnRRAB,Yann,https://www.google.com/maps/contrib/109239286591703474249/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.425375,5.0,103,
+155,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURrdnNudzN3RRAB,Youssef Zekri,https://www.google.com/maps/contrib/108617111950646828825/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.427108,5.0,38,
+156,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNVcS1TUzNBRRAB,RNeuf Le KInois,https://www.google.com/maps/contrib/111105636616852451208/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.428877,4.0,0,
+157,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNxcHNqbjJnRRAB,Micha Ben Younes,https://www.google.com/maps/contrib/108187151142044578091/reviews?hl=en-CA,2 weeks ago,2021-06-22 14:35:03.429977,1.0,0,
+158,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURVOFluSTJnRRAB,joanna Di M,https://www.google.com/maps/contrib/103657784685703474573/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.431214,5.0,2,
+159,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURDNVptNTB3RRAB,Phyllis Elston,https://www.google.com/maps/contrib/107697114306309060705/reviews?hl=en-CA,8 months ago,2021-06-22 14:35:03.433346,5.0,8,
+160,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURVOGEyZzB3RRAB,umar bhatti,https://www.google.com/maps/contrib/117531882508037866403/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.435091,5.0,22,
+161,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURVM2JmZHp3RRAB,Mario Ouellet,https://www.google.com/maps/contrib/117132783953854572313/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.436498,3.0,2,
+162,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURLMGVIT3pRRRAB,Caroline Gamache,https://www.google.com/maps/contrib/112816898709102221999/reviews?hl=en-CA,a month ago,2021-06-22 14:35:03.437673,4.0,0,
+163,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURBc042RnpRRRAB,Kar Dm,https://www.google.com/maps/contrib/102128683131462550100/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.438715,4.0,2,
+164,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURZNC03THpBRRAB,Lindalapierre Lapierre,https://www.google.com/maps/contrib/109385230848582544350/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.439716,3.0,32,
+165,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUQwM3RmaXl3RRAB,Joseph Simon-Pierre Renaud,https://www.google.com/maps/contrib/117340701429308662851/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.440647,5.0,29,
+166,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNVLWMtdnlnRRAB,Darrell Langley,https://www.google.com/maps/contrib/108344502741960617116/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.441571,5.0,3,
+167,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNJdVoyV3lRRRAB,Leonard Depestre,https://www.google.com/maps/contrib/116735529195264022773/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.442692,1.0,47,
+168,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURLdHFxVXlRRRAB,Gabriela,https://www.google.com/maps/contrib/108368849635992574242/reviews?hl=en-CA,a month ago,2021-06-22 14:35:03.444201,4.0,1,
+169,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNZbHVqeXlBRRAB,Azer Ben Regaya,https://www.google.com/maps/contrib/105828119418590751719/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.445150,5.0,56,
+170,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURVMU5lbnhRRRAB,Lucile Ferrari,https://www.google.com/maps/contrib/114678694414453080584/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.446164,5.0,6,
+171,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNVX2ZtN3d3RRAB,Christof Go,https://www.google.com/maps/contrib/100600462869023799720/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.447177,4.0,1,
+172,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUMweWZPZHd3RRAB,Joseph Ronci,https://www.google.com/maps/contrib/109917223373680433740/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.448107,5.0,19,
+173,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUM0dGI2NndnRRAB,Othmane Majdoub,https://www.google.com/maps/contrib/114829333533144632950/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.449167,4.0,9,
+174,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURrb1lqcXZ3RRAB,eddy Zaitoune,https://www.google.com/maps/contrib/112720596745872975689/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.450116,5.0,66,
+175,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNxbS1YaHV3RRAB,Jonathan Latour Mireault,https://www.google.com/maps/contrib/102401681898969141252/reviews?hl=en-CA,2 days ago,2021-06-22 14:35:03.451884,5.0,0,
+176,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNFX0ozOHVnRRAB,Nirvan Fadaei Moghadam,https://www.google.com/maps/contrib/109594371471390876444/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.453282,3.0,11,
+177,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURrNVlmUnVRRRAB,p,https://www.google.com/maps/contrib/107055055511317936979/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.454260,4.0,34,
+178,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURLdGE2M3VRRRAB,Keivan Ghorbanzadeh,https://www.google.com/maps/contrib/112675981357711401885/reviews?hl=en-CA,a month ago,2021-06-22 14:35:03.455216,5.0,3,
+179,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNNaC0zZHVBRRAB,Rebecca Ng,https://www.google.com/maps/contrib/111788857807328428747/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.456143,4.0,7,
+180,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNzbzRLUnVBRRAB,Junior Ximenes,https://www.google.com/maps/contrib/116529850409423446661/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.457212,1.0,0,
+181,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNVMk1TMXRRRRAB,Marie-lyne Gagnon,https://www.google.com/maps/contrib/102601464003806300478/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.458194,4.0,13,
+182,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNLbWVhUnRRRRAB,Gabrielle,https://www.google.com/maps/contrib/107947885507852959277/reviews?hl=en-CA,2 months ago,2021-06-22 14:35:03.459648,5.0,2,
+183,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUN3cDhuVHRBRRAB,John Roman,https://www.google.com/maps/contrib/103130804091792078322/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.460661,4.0,15,
+184,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUR5bklfNHNnRRAB,Miriam Orozco,https://www.google.com/maps/contrib/103637506165971878343/reviews?hl=en-CA,3 months ago,2021-06-22 14:35:03.461772,5.0,0,
+185,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNBMnY3cnNRRRAB,Nick Léporé,https://www.google.com/maps/contrib/113239072481394639998/reviews?hl=en-CA,4 years ago,2021-06-22 14:35:03.462700,4.0,29,
+186,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNvdnJIZXNRRRAB,Patrick Philippe,https://www.google.com/maps/contrib/100761870464548554667/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.463704,3.0,1,
+187,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURTanB1THNBRRAB,ana lucia valladares henao,https://www.google.com/maps/contrib/105162340272340536961/reviews?hl=en-CA,5 months ago,2021-06-22 14:35:03.464687,3.0,1,
+188,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURRMmVIWXJ3RRAB,Chikito Breaker,https://www.google.com/maps/contrib/104492410912995378456/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.465744,4.0,16,
+189,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURRa2R5NHJ3RRAB,Ivan Ceballos,https://www.google.com/maps/contrib/113364617464743678235/reviews?hl=en-CA,4 years ago,2021-06-22 14:35:03.466877,4.0,278,
+190,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNJM3ZpUHJ3RRAB,Chakir Elagbani,https://www.google.com/maps/contrib/104171523625905736511/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.468089,3.0,11,
+191,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURJbEozNXJnRRAB,Eric Seguin,https://www.google.com/maps/contrib/104168491818609461409/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.470021,5.0,5,
+192,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURZdG82M3JRRRAB,Madai Joachin,https://www.google.com/maps/contrib/107313118695531838493/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.471035,5.0,2,
+193,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNBOHRTS3JBRRAB,Ketty Dünkler,https://www.google.com/maps/contrib/110886259107378842441/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.472109,3.0,0,
+194,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNZeHF2UHF3RRAB,sacha marin,https://www.google.com/maps/contrib/116528616035209565967/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.473035,5.0,13,
+195,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURVcHMyaHFnRRAB,Oldest KillaZ,https://www.google.com/maps/contrib/114233200119608488792/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.474147,5.0,0,
+196,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNRZ3BDa3B3RRAB,frederic lizotte,https://www.google.com/maps/contrib/107335759889956165700/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.475815,5.0,59,
+197,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNBajVxaHB3RRAB,Guethvah Petit-Frere,https://www.google.com/maps/contrib/115584771279692088927/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.476992,4.0,9,
+198,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNrOHUyWnB3RRAB,José Guzman,https://www.google.com/maps/contrib/110501147189909599081/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.477948,4.0,3,
+199,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURreDV1a293RRAB,Serge Musulay,https://www.google.com/maps/contrib/110416272410235429340/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.478882,5.0,2,
+200,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURVdXJqOG9nRRAB,Milosz Janda,https://www.google.com/maps/contrib/114567164782757255874/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.479927,4.0,251,
+201,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURRbzl5Um9nRRAB,Shafiqur Khan,https://www.google.com/maps/contrib/117312324669381894760/reviews?hl=en-CA,4 years ago,2021-06-22 14:35:03.481027,5.0,13,
+202,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNLbWY2MW53RRAB,Mathieu Chevalier,https://www.google.com/maps/contrib/116647625150580385196/reviews?hl=en-CA,2 months ago,2021-06-22 14:35:03.482151,4.0,19,
+203,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNLbV9HSG5nRRAB,Juliana Pedersen,https://www.google.com/maps/contrib/116472339714856242914/reviews?hl=en-CA,2 months ago,2021-06-22 14:35:03.483290,4.0,9,
+204,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURZd3JYd25BRRAB,Karined brunet-laniel,https://www.google.com/maps/contrib/106165095217570159704/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.484245,1.0,1,
+205,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURnbHBfX213RRAB,C Oliva,https://www.google.com/maps/contrib/113573190795292002341/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.485438,4.0,9,
+206,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNBcjRQeG1nRRAB,John Shehata,https://www.google.com/maps/contrib/113384793331746896743/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.486687,5.0,33,
+207,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNReU95Z21nRRAB,Maria Linares,https://www.google.com/maps/contrib/115325223054263426277/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.487621,4.0,11,
+208,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURRdjR2RG1BRRAB,Cendrine Caron,https://www.google.com/maps/contrib/107241120289276126263/reviews?hl=en-CA,4 years ago,2021-06-22 14:35:03.488559,5.0,18,
+209,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURROGI2RW1BRRAB,Lydia M,https://www.google.com/maps/contrib/113917530999059644990/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.489575,2.0,0,
+210,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURrdVlfYmx3RRAB,Nakour Adoum,https://www.google.com/maps/contrib/116870531902445355529/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.490610,1.0,0,
+211,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNLM19PUmt3RRAB,Jonathan Senecal,https://www.google.com/maps/contrib/106588586523378533489/reviews?hl=en-CA,a month ago,2021-06-22 14:35:03.491847,5.0,71,
+212,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURZaEpTTWtnRRAB,Gisella San Miguel,https://www.google.com/maps/contrib/118374623552416863907/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.492802,5.0,62,
+213,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUN3dWJtSWtnRRAB,Fabiana Sanon,https://www.google.com/maps/contrib/104453941817513753594/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.493914,5.0,5,
+214,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURnNzlYZGp3RRAB,Dimitri Karamitsos,https://www.google.com/maps/contrib/115459615517741928629/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.494816,5.0,30,
+215,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUN3MHIzUGpRRRAB,Achraf Zineddine (Tchitcharon),https://www.google.com/maps/contrib/106748883953192303549/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.495812,5.0,0,
+216,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURrOU1HMmpBRRAB,Sophy Hieng,https://www.google.com/maps/contrib/105758182539479583205/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.496861,1.0,0,
+217,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURnaU42WGpBRRAB,Neuza Theodoro,https://www.google.com/maps/contrib/112528219760629670006/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.497768,4.0,6,
+218,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNVOF8yTmpBRRAB,Sam buca,https://www.google.com/maps/contrib/106322257968767190734/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.498918,4.0,0,
+219,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURZc2JmOGlnRRAB,Dominic Dery,https://www.google.com/maps/contrib/100775102757944277220/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.500044,5.0,3,
+220,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNTNEpiWmh3RRAB,Jon Reid,https://www.google.com/maps/contrib/100863715228771613418/reviews?hl=en-CA,6 months ago,2021-06-22 14:35:03.501278,4.0,0,
+221,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNxNWRQX2hRRRAB,Jérémie Joly,https://www.google.com/maps/contrib/112933227740473150843/reviews?hl=en-CA,a week ago,2021-06-22 14:35:03.502266,5.0,4,
+222,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUNxa0tYc2hBRRAB,Francis Orbes,https://www.google.com/maps/contrib/114431642199611381233/reviews?hl=en-CA,4 weeks ago,2021-06-22 14:35:03.503660,4.0,0,
+223,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSUM0cVlEbmd3RRAB,Ryma BELMOULOUD,https://www.google.com/maps/contrib/108973730771632130157/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.505092,4.0,2,
+224,Parc Nicolas-Tillemont,ChdDSUhNMG9nS0VJQ0FnSURreTZhQmdRRRAB,Jean-Sébastien Roy,https://www.google.com/maps/contrib/117415305790910013137/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.506134,4.0,17,
+225,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURNMEw3ZGZ3EAE,uslolgunter,https://www.google.com/maps/contrib/106252482161852470994/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.507063,4.0,66,
+226,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNVdko3QmZ3EAE,Mélanie Turcotte,https://www.google.com/maps/contrib/102596018267147335690/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.508226,5.0,19,
+227,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNLaGI3U2ZREAE,DanielM67 (daniel_chikito),https://www.google.com/maps/contrib/106374936526173951413/reviews?hl=en-CA,2 months ago,2021-06-22 14:35:03.509401,5.0,8,
+228,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURrMFotVGZREAE,celine cherfaoui,https://www.google.com/maps/contrib/110839403592916828247/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.510436,4.0,0,
+229,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNRMC1qOWZBEAE,Simon,https://www.google.com/maps/contrib/114924521161666573940/reviews?hl=en-CA,5 years ago,2021-06-22 14:35:03.511688,4.0,49,
+230,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNxMThPNGZBEAE,Denise Zineb,https://www.google.com/maps/contrib/101322555014997802017/reviews?hl=en-CA,9 hours ago,2021-06-22 14:35:03.512784,5.0,27,"(Translated by Google) Quiet in the evening
+
+(Original)
+Tranquille le soir"
+231,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNBNXV1VmZBEAE,Robert Dashney,https://www.google.com/maps/contrib/117152898696363471146/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.513834,5.0,0,
+232,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNnZ0lYTmVREAE,Rachid Lechgar,https://www.google.com/maps/contrib/115264732710414587417/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.515595,3.0,5,
+233,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNLbTlqZmR3EAE,Cesar González,https://www.google.com/maps/contrib/110686636663310289224/reviews?hl=en-CA,2 months ago,2021-06-22 14:35:03.516912,5.0,13,
+234,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURvaUpLc2R3EAE,melanie scala,https://www.google.com/maps/contrib/118446176801182621126/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.518158,5.0,56,
+235,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNxbXBMdmRnEAE,Nivalda Rebelo,https://www.google.com/maps/contrib/100998154906429641552/reviews?hl=en-CA,2 weeks ago,2021-06-22 14:35:03.519729,5.0,85,
+236,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNVemFYdWRREAE,Tababouchet Sousou,https://www.google.com/maps/contrib/116845960269302919997/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.520864,5.0,0,
+237,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURNNWZpemRBEAE,RSM,https://www.google.com/maps/contrib/116979011837848919696/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.521812,2.0,3,
+238,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNLcUtQRWN3EAE,Juan Carlos Colas Medina,https://www.google.com/maps/contrib/100383960846143537169/reviews?hl=en-CA,2 months ago,2021-06-22 14:35:03.522928,5.0,0,
+239,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURnZ3BpQ2NnEAE,Benoit Roy,https://www.google.com/maps/contrib/108142733255472600140/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.524225,4.0,15,
+240,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURpM0p1VmNREAE,Nico Stormchild,https://www.google.com/maps/contrib/100700539738868841933/reviews?hl=en-CA,6 months ago,2021-06-22 14:35:03.525259,5.0,42,
+241,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUQ0bG9HTWF3EAE,Oomphmann Ibrahim,https://www.google.com/maps/contrib/109549678666077246192/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.526281,5.0,2,
+242,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNLNjRUS2FBEAE,jaime arevalo,https://www.google.com/maps/contrib/102881016833482958035/reviews?hl=en-CA,2 months ago,2021-06-22 14:35:03.527435,4.0,0,
+243,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURVNUxxWlp3EAE,Sonia Lafortune,https://www.google.com/maps/contrib/110529084616082433073/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.528358,4.0,10,
+244,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURVZ29PTVpREAE,Elaine Gagnon,https://www.google.com/maps/contrib/106694895492113577277/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.529576,5.0,0,
+245,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURRaWVIS1pBEAE,Félix-Antoine Pagé,https://www.google.com/maps/contrib/111180628628564763101/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.530543,4.0,10,
+246,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNVXzlUSlpBEAE,Hugo Talavera,https://www.google.com/maps/contrib/102783782202672067596/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.531677,5.0,10,
+247,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURLckpqU1lnEAE,Leila Filipa Querido Inacio,https://www.google.com/maps/contrib/101247302935790516678/reviews?hl=en-CA,a month ago,2021-06-22 14:35:03.532967,5.0,14,
+248,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUN5OTZmd1lBEAE,Sarra Faddaou,https://www.google.com/maps/contrib/107711458025397362343/reviews?hl=en-CA,4 months ago,2021-06-22 14:35:03.533944,3.0,1,
+249,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNRaTVfSVhREAE,yacine feknous,https://www.google.com/maps/contrib/110680952750640887489/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.535692,5.0,16,
+250,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURRLW9pWVhREAE,hanane yenoune,https://www.google.com/maps/contrib/107098778676911845000/reviews?hl=en-CA,4 years ago,2021-06-22 14:35:03.536686,5.0,1,
+251,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUN3bVBmUFhBEAE,Gabriel Nasstrom,https://www.google.com/maps/contrib/116788297314570519329/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.537623,4.0,14,
+252,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURRbE0yT1hBEAE,MH Ricard,https://www.google.com/maps/contrib/114499210016625390933/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.538602,4.0,33,
+253,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURramVLSVhBEAE,Vijeta Patel,https://www.google.com/maps/contrib/100043164532168172885/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.539768,5.0,6,
+254,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNxMXJmQldnEAE,Yanik Monnette (L'inspecteur Préachat),https://www.google.com/maps/contrib/118014792630875095685/reviews?hl=en-CA,2 weeks ago,2021-06-22 14:35:03.540880,5.0,31,
+255,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNVbDZXV1dREAE,Johny Tran,https://www.google.com/maps/contrib/118437957366876894662/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.541846,3.0,55,
+256,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNFLTZhcFdBEAE,kana kwon,https://www.google.com/maps/contrib/100567927533947384389/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.543032,5.0,19,
+257,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUMwbXYyRVdBEAE,Gabriela Franco,https://www.google.com/maps/contrib/102498070335077319522/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.543922,4.0,4,
+258,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUQ4My1QTVZnEAE,Keven Corbin,https://www.google.com/maps/contrib/102527302430736665410/reviews?hl=en-CA,10 months ago,2021-06-22 14:35:03.544821,5.0,0,
+259,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURndnM2QVZREAE,Sylvie St-Aubin,https://www.google.com/maps/contrib/111644748694559697891/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.545986,4.0,0,
+260,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUN3eFBQWFV3EAE,Nicolas Rioux,https://www.google.com/maps/contrib/115169983690856489336/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.547083,5.0,28,
+261,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUN3ck1yRVV3EAE,Maeve Pine,https://www.google.com/maps/contrib/116828921521419732609/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.549948,3.0,14,
+262,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUN5NjZxalV3EAE,Sebastien Landry,https://www.google.com/maps/contrib/112030533616284493359/reviews?hl=en-CA,4 months ago,2021-06-22 14:35:03.551048,5.0,36,
+263,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNRaC1PcFVREAE,TARA TATA,https://www.google.com/maps/contrib/112378230526163261299/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.552061,5.0,4,
+264,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURVOWYyQ1VREAE,Rodwick Raymond,https://www.google.com/maps/contrib/102503743127545495173/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.553262,5.0,1,
+265,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNRNC1xMFRnEAE,witner valerius,https://www.google.com/maps/contrib/109257887428320758231/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.554849,5.0,0,
+266,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNxM1pYSVNREAE,Cynthia Montero,https://www.google.com/maps/contrib/101472525770888500116/reviews?hl=en-CA,6 days ago,2021-06-22 14:35:03.556143,5.0,0,
+267,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURnN0pMRFJ3EAE,Andres Real,https://www.google.com/maps/contrib/100465252432763525776/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.557328,3.0,3,
+268,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURraGVHMlJREAE,Fred Brillon,https://www.google.com/maps/contrib/105687419117699143957/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.558375,4.0,0,
+269,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUN3MjlfZlJBEAE,M L,https://www.google.com/maps/contrib/117577149336627086931/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.559312,4.0,2,
+270,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNJM19DSlJBEAE,Christian Marcelo Valdez Donlucas,https://www.google.com/maps/contrib/103618274199631240370/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.560234,5.0,3,
+271,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNBajkya1F3EAE,Sonia Bassani,https://www.google.com/maps/contrib/106187200022643756263/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.561310,4.0,8,
+272,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURDeTdiaVFBEAE,Jyuu hhyu,https://www.google.com/maps/contrib/110227708847209879915/reviews?hl=en-CA,8 months ago,2021-06-22 14:35:03.562210,4.0,1,
+273,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURZbC03QVFBEAE,Antonio Espinoza Diaz,https://www.google.com/maps/contrib/110831965312789848845/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.563198,5.0,5,
+274,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURVcW9iNlBnEAE,Gustavo N. Peña,https://www.google.com/maps/contrib/101122026555135552525/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.564211,4.0,3,
+275,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNnNjZEc1BREAE,Yvan Le Bris,https://www.google.com/maps/contrib/107699512214267163645/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.565543,3.0,21,
+276,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURrNl9tbVBREAE,Joelle Lacoste,https://www.google.com/maps/contrib/104849203119448972402/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.566489,5.0,2,
+277,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNVaU03YU9nEAE,nadjet misraoui,https://www.google.com/maps/contrib/116426771188896828197/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.567488,4.0,0,
+278,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNVb05hdU9BEAE,Maria Ziaka,https://www.google.com/maps/contrib/105793440680253927384/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.568379,5.0,4,
+279,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNxMWN6aE53EAE,Mouloud Idir,https://www.google.com/maps/contrib/111746990365061713077/reviews?hl=en-CA,a week ago,2021-06-22 14:35:03.569354,5.0,0,
+280,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUN3czRLaE53EAE,Raul Ross,https://www.google.com/maps/contrib/113978521868828420740/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.570273,5.0,13,
+281,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURTMHVyNE5nEAE,Vladimir Olguin,https://www.google.com/maps/contrib/116483775514913696668/reviews?hl=en-CA,6 months ago,2021-06-22 14:35:03.571317,1.0,31,
+282,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNRbjVqS05nEAE,Zachary K,https://www.google.com/maps/contrib/102700934796269401988/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.572825,1.0,5,
+283,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNnbTdmSU5nEAE,Hugo Ramón Soul,https://www.google.com/maps/contrib/106492821217496768342/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.573705,5.0,34,
+284,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNVdUx6RE5nEAE,Slim Sven Amri,https://www.google.com/maps/contrib/110443772224482518079/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.574588,5.0,155,
+285,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURLNUxfR05REAE,Lucile Choffat,https://www.google.com/maps/contrib/100952217638371041926/reviews?hl=en-CA,a month ago,2021-06-22 14:35:03.575523,4.0,0,
+286,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURBN2EyOU5BEAE,Daryl Saint-Vil (DivineEel26170),https://www.google.com/maps/contrib/111181977343318761474/reviews?hl=en-CA,4 years ago,2021-06-22 14:35:03.576374,3.0,27,
+287,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNxcnJleE5BEAE,Srf Nacef,https://www.google.com/maps/contrib/100718772013722491838/reviews?hl=en-CA,2 weeks ago,2021-06-22 14:35:03.577294,5.0,0,
+288,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURrdWVYMU13EAE,mohamed zekri,https://www.google.com/maps/contrib/113745726708433687638/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.578178,4.0,59,
+289,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURVbzdLWExnEAE,Chartrand Caroline,https://www.google.com/maps/contrib/101035114741416679279/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.579264,5.0,1,
+290,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNRdE4tS0xREAE,Renata Pires,https://www.google.com/maps/contrib/110414841298975872726/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.580776,4.0,0,
+291,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNVcVk2WUxBEAE,Habib Zekri,https://www.google.com/maps/contrib/111617985064661158642/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.581713,5.0,9,
+292,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNBNVpYcktnEAE,Jose Luis,https://www.google.com/maps/contrib/104313119694735567900/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.582640,3.0,16,
+293,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURZa28yWEtnEAE,Gardine Gelin rivert,https://www.google.com/maps/contrib/104260649890811002343/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.583657,5.0,28,
+294,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNBdHJ5R0tREAE,Jb Thibaudeau,https://www.google.com/maps/contrib/114029071770467698395/reviews?hl=en-CA,4 years ago,2021-06-22 14:35:03.584627,5.0,49,
+295,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURraWZXZEtBEAE,Damien Dubé,https://www.google.com/maps/contrib/101058206935457564656/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.585786,5.0,5,
+296,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNNcGIzMUp3EAE,Brahim HADDAOUI,https://www.google.com/maps/contrib/112227360843594509122/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.586805,5.0,17,
+297,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNna1lMMEp3EAE,Bastien Hb,https://www.google.com/maps/contrib/102795370428540053811/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.587695,3.0,1,
+298,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNxbWJHRUpREAE,JS B,https://www.google.com/maps/contrib/109636771020098057670/reviews?hl=en-CA,a week ago,2021-06-22 14:35:03.589158,3.0,3,
+299,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURnOFpfTEpBEAE,Bell Danet,https://www.google.com/maps/contrib/103432565881105754070/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.590071,5.0,106,
+300,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNLeV95Nkl3EAE,Ruby Astrid Tovar Cardenas,https://www.google.com/maps/contrib/100485858171952663297/reviews?hl=en-CA,2 months ago,2021-06-22 14:35:03.590929,5.0,31,
+301,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNBNkxUVUlREAE,Lise Boucher,https://www.google.com/maps/contrib/110371012904109413515/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.591789,3.0,1,
+302,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUN3bXU3eElBEAE,Dominic Theberge,https://www.google.com/maps/contrib/108990649749634518450/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.592663,4.0,21,
+303,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNpMGRTcklBEAE,Yhira Torres,https://www.google.com/maps/contrib/108022039542498636115/reviews?hl=en-CA,7 months ago,2021-06-22 14:35:03.593740,5.0,29,
+304,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURJekotMUh3EAE,Eric Seguin,https://www.google.com/maps/contrib/113856475962275710126/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.594600,5.0,0,
+305,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURVcmFmREhREAE,Gabriel Monette,https://www.google.com/maps/contrib/111070486538201630176/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.596962,5.0,1,
+306,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNVMU5HVkhREAE,Giovanni Sacchetto,https://www.google.com/maps/contrib/113477107472545141565/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.597870,5.0,34,
+307,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNneks3dUhBEAE,Annie Perreault,https://www.google.com/maps/contrib/113048397314983711085/reviews?hl=en-CA,4 years ago,2021-06-22 14:35:03.598922,5.0,140,
+308,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNLdHFPV0d3EAE,Mohamed Sta,https://www.google.com/maps/contrib/110366020123097881812/reviews?hl=en-CA,2 months ago,2021-06-22 14:35:03.599834,5.0,13,
+309,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNnMXB5ZUdREAE,Gabriel Dutremble,https://www.google.com/maps/contrib/106435993687894428058/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.600822,5.0,0,
+310,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUN3cXZDS0ZREAE,Cesar Sanchez,https://www.google.com/maps/contrib/114528203609969359775/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.601786,4.0,16,
+311,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUN3dVlLU0ZBEAE,Caroline Chevalier,https://www.google.com/maps/contrib/111845435863855443556/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.602847,5.0,4,
+312,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURVdHBqUEVnEAE,Ryan Yui,https://www.google.com/maps/contrib/105405083953648736980/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.603870,5.0,0,
+313,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURVNzhxOEVnEAE,james labady,https://www.google.com/maps/contrib/117868717743592491503/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.605082,4.0,18,
+314,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNvN2NPYUVnEAE,Amel Yalaoui,https://www.google.com/maps/contrib/108012377742134360810/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.605925,5.0,43,
+315,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNROHNlR0VnEAE,Twister DjPat,https://www.google.com/maps/contrib/103766386123849800797/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.606783,4.0,19,
+316,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURRX0lYTEVBEAE,joelle tremblay,https://www.google.com/maps/contrib/107681394873501397897/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.607668,4.0,2,
+317,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURJOTVydURREAE,Ivens Tadeu Silveira,https://www.google.com/maps/contrib/104566798785799481714/reviews?hl=en-CA,2 years ago,2021-06-22 14:35:03.608510,5.0,68,
+318,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNzX2NhLURREAE,Nabil Chb,https://www.google.com/maps/contrib/117790045944405503615/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.609332,4.0,17,
+319,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURDeTZEdENnEAE,Guillaume Levesque,https://www.google.com/maps/contrib/113739268755866757076/reviews?hl=en-CA,8 months ago,2021-06-22 14:35:03.610194,2.0,65,
+320,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSUNVMDZQZENnEAE,Jonas Mukamba John John,https://www.google.com/maps/contrib/109471919410230816527/reviews?hl=en-CA,a year ago,2021-06-22 14:35:03.611016,3.0,3,
+321,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURLa3B2ZENREAE,Silvana M,https://www.google.com/maps/contrib/108802048418874445585/reviews?hl=en-CA,a month ago,2021-06-22 14:35:03.611933,5.0,3,
+322,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURnLUpQSkJ3EAE,Eric Kokot,https://www.google.com/maps/contrib/113014515168319950678/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.613558,5.0,52,
+323,Parc Nicolas-Tillemont,ChZDSUhNMG9nS0VJQ0FnSURnMFlmZkJBEAE,Marie Pilon,https://www.google.com/maps/contrib/106934012345797530631/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.614427,4.0,1,
+324,Parc Nicolas-Tillemont,ChRDSUhNMG9nS0VJQ0FnSUN3OU1CORAB,Abdelkader Akil,https://www.google.com/maps/contrib/111206935175153026271/reviews?hl=en-CA,3 years ago,2021-06-22 14:35:03.615261,1.0,11,
+325,Parc Nicolas-Tillemont,ChRDSUhNMG9nS0VJQ0FnSURBdTQ4XxAB,Ernst Junior Roger,https://www.google.com/maps/contrib/100702184238376080903/reviews?hl=en-CA,4 years ago,2021-06-22 14:35:03.616135,5.0,0,
